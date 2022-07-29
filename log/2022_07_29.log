@@ -1,0 +1,1914 @@
+2022-07-29 10:59:30.527741 [info] : ========== Server init ==========
+2022-07-29 10:59:30.527762 [info] : Port:9999, OpenLinger: false
+2022-07-29 10:59:30.527766 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 10:59:30.527769 [info] : LogSys Open: 1
+2022-07-29 10:59:30.527771 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 10:59:30.527849 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 10:59:30.574326 [info] : Server port:9999
+2022-07-29 10:59:41.208118 [info] : ========== Server start ==========
+2022-07-29 11:00:06.897537 [info] : Client[12](192.168.33.1:56268) in, userCount:1
+2022-07-29 11:00:06.897581 [info] : Client[12] in!
+2022-07-29 11:00:06.899171 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:00:06.899204 [debug]: /index.html
+2022-07-29 11:00:06.899247 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:00:06.899404 [debug]: filesize:748, 2  to 832
+2022-07-29 11:00:06.899542 [info] : Client[12] quit!
+2022-07-29 11:00:06.899648 [info] : Client[12](192.168.33.1:56268) quit, UserCount:0
+2022-07-29 11:00:10.960295 [info] : Client[12](192.168.33.1:64972) in, userCount:1
+2022-07-29 11:00:10.960375 [info] : Client[12] in!
+2022-07-29 11:00:10.961828 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 11:00:10.961865 [debug]: /register.html
+2022-07-29 11:00:10.961963 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 11:00:10.962233 [debug]: filesize:722, 2  to 806
+2022-07-29 11:00:10.962409 [info] : Client[12] quit!
+2022-07-29 11:00:10.962536 [info] : Client[12](192.168.33.1:64972) quit, UserCount:0
+2022-07-29 11:00:17.538419 [info] : Client[12](192.168.33.1:3789) in, userCount:1
+2022-07-29 11:00:17.538523 [info] : Client[12] in!
+2022-07-29 11:00:17.540575 [debug]: [POST], [/registerSubmit], [1.1]
+2022-07-29 11:00:17.540609 [debug]: /registerSubmit
+2022-07-29 11:00:17.540645 [debug]: filesize:0, 1  to 236
+2022-07-29 11:00:17.540859 [info] : Client[12] quit!
+2022-07-29 11:00:17.540959 [info] : Client[12](192.168.33.1:3789) quit, UserCount:0
+2022-07-29 11:00:27.550864 [info] : Client[12] quit!
+2022-07-29 11:01:27.102701 [info] : Client[12](192.168.33.1:14541) in, userCount:1
+2022-07-29 11:01:27.102766 [info] : Client[12] in!
+2022-07-29 11:01:27.104315 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:01:27.104346 [debug]: /index.html
+2022-07-29 11:01:27.104418 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:01:27.104446 [debug]: filesize:748, 2  to 832
+2022-07-29 11:01:27.104639 [info] : Client[12] quit!
+2022-07-29 11:01:27.104765 [info] : Client[12](192.168.33.1:14541) quit, UserCount:0
+2022-07-29 11:01:27.180486 [info] : Client[12](192.168.33.1:15821) in, userCount:1
+2022-07-29 11:01:27.180589 [info] : Client[12] in!
+2022-07-29 11:01:27.182276 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:01:27.182303 [debug]: /index.html
+2022-07-29 11:01:27.182350 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:01:27.182394 [debug]: filesize:748, 2  to 832
+2022-07-29 11:01:27.182525 [info] : Client[12] quit!
+2022-07-29 11:01:27.182593 [info] : Client[12](192.168.33.1:15821) quit, UserCount:0
+2022-07-29 11:01:30.140287 [info] : Client[12](192.168.33.1:17101) in, userCount:1
+2022-07-29 11:01:30.140344 [info] : Client[12] in!
+2022-07-29 11:01:30.142083 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 11:01:30.142126 [debug]: /login.html
+2022-07-29 11:01:30.142230 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 11:01:30.142482 [debug]: filesize:714, 2  to 798
+2022-07-29 11:01:30.142655 [info] : Client[12] quit!
+2022-07-29 11:01:30.142760 [info] : Client[12](192.168.33.1:17101) quit, UserCount:0
+2022-07-29 11:01:36.476339 [info] : Client[12](192.168.33.1:20173) in, userCount:1
+2022-07-29 11:01:36.476408 [info] : Client[12] in!
+2022-07-29 11:01:36.478424 [debug]: Tag:1
+2022-07-29 11:01:51.494336 [info] : Client[12] quit!
+2022-07-29 11:01:51.494470 [info] : Client[12](192.168.33.1:20173) quit, UserCount:0
+2022-07-29 11:01:52.122632 [info] : Client[12](192.168.33.1:22221) in, userCount:1
+2022-07-29 11:01:52.122811 [info] : Client[12] in!
+2022-07-29 11:01:52.125364 [debug]: Tag:1
+2022-07-29 11:01:53.027363 [info] : Verify name:abc pwd:123456
+2022-07-29 11:01:53.027407 [debug]: SELECT username, passwd FROM user WHERE username='abc' LIMIT 1
+2022-07-29 11:01:55.800640 [info] : Verify name:abc pwd:123456
+2022-07-29 11:01:55.800681 [debug]: SELECT username, passwd FROM user WHERE username='abc' LIMIT 1
+2022-07-29 11:01:56.717337 [debug]: [POST], [/error.html], [1.1]
+2022-07-29 11:01:56.717380 [debug]: /error.html
+2022-07-29 11:01:56.717448 [debug]: filesize:0, 1  to 217
+2022-07-29 11:01:56.717674 [info] : Client[12] quit!
+2022-07-29 11:01:56.717732 [info] : Client[12](192.168.33.1:22221) quit, UserCount:0
+2022-07-29 11:02:15.728635 [info] : Client[12] quit!
+2022-07-29 11:02:27.925330 [debug]: [POST], [/error.html], [1.1]
+2022-07-29 11:02:28.673980 [debug]: /error.html
+2022-07-29 11:02:32.132669 [debug]: filesize:0, 1  to 217
+2022-07-29 11:02:40.385269 [info] : Client[12](192.168.33.1:29133) in, userCount:1
+2022-07-29 11:02:40.385341 [info] : Client[12] in!
+2022-07-29 11:02:40.387425 [debug]: Tag:1
+2022-07-29 11:02:45.709413 [info] : Verify name:abc pwd:123456
+2022-07-29 11:02:50.035667 [info] : Client[12] quit!
+2022-07-29 11:02:50.035893 [info] : Client[12](192.168.33.1:29133) quit, UserCount:0
+2022-07-29 11:02:50.037773 [info] : Client[12](192.168.33.1:31181) in, userCount:1
+2022-07-29 11:02:50.037813 [info] : Client[12] in!
+2022-07-29 11:02:51.568072 [debug]: Tag:1
+2022-07-29 11:03:09.191291 [info] : Client[12] quit!
+2022-07-29 11:03:09.191414 [info] : Client[12](192.168.33.1:31181) quit, UserCount:0
+2022-07-29 11:03:09.191783 [debug]: SELECT username, passwd FROM user WHERE username='abc' LIMIT 1
+2022-07-29 11:03:19.292121 [info] : Verify name:abc pwd:123456
+2022-07-29 11:03:22.812120 [debug]: [POST], [/error.html], [1.1]
+2022-07-29 11:03:22.812213 [debug]: /error.html
+2022-07-29 11:03:22.812267 [debug]: filesize:0, 1  to 217
+2022-07-29 11:03:26.227473 [debug]: SELECT username, passwd FROM user WHERE username='abc' LIMIT 1
+2022-07-29 11:11:18.746089 [info] : ========== Server init ==========
+2022-07-29 11:11:18.746108 [info] : Port:9999, OpenLinger: false
+2022-07-29 11:11:18.746113 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 11:11:18.746115 [info] : LogSys Open: 1
+2022-07-29 11:11:18.746117 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 11:11:18.746119 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 11:11:18.748823 [info] : Server port:9999
+2022-07-29 11:11:18.748858 [info] : ========== Server start ==========
+2022-07-29 11:11:22.039038 [info] : Client[12](192.168.33.1:61391) in, userCount:1
+2022-07-29 11:11:22.039132 [info] : Client[12] in!
+2022-07-29 11:11:22.040532 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:11:22.040557 [debug]: /index.html
+2022-07-29 11:11:22.040624 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:11:22.040648 [debug]: filesize:748, 2  to 832
+2022-07-29 11:11:22.040797 [info] : Client[12] quit!
+2022-07-29 11:11:22.040884 [info] : Client[12](192.168.33.1:61391) quit, UserCount:0
+2022-07-29 11:11:23.801052 [info] : Client[12](192.168.33.1:63439) in, userCount:1
+2022-07-29 11:11:23.801107 [info] : Client[12] in!
+2022-07-29 11:11:23.802580 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 11:11:23.802606 [debug]: /register.html
+2022-07-29 11:11:23.802654 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 11:11:23.802716 [debug]: filesize:722, 2  to 806
+2022-07-29 11:11:23.802868 [info] : Client[12] quit!
+2022-07-29 11:11:23.802951 [info] : Client[12](192.168.33.1:63439) quit, UserCount:0
+2022-07-29 11:11:28.917315 [info] : Client[12](192.168.33.1:64975) in, userCount:1
+2022-07-29 11:11:28.917389 [info] : Client[12] in!
+2022-07-29 11:11:28.919811 [debug]: Tag:0
+2022-07-29 11:11:28.919843 [info] : Verify name:abc pwd:123456
+2022-07-29 11:11:28.919849 [debug]: SELECT username, passwd FROM user WHERE username='abc' LIMIT 1
+2022-07-29 11:11:28.921892 [debug]: [POST], [/error.html], [1.1]
+2022-07-29 11:11:28.921915 [debug]: /error.html
+2022-07-29 11:11:28.921943 [debug]: filesize:0, 1  to 217
+2022-07-29 11:11:28.922131 [info] : Client[12] quit!
+2022-07-29 11:11:28.922232 [info] : Client[12](192.168.33.1:64975) quit, UserCount:0
+2022-07-29 11:11:38.932738 [info] : Client[12] quit!
+2022-07-29 11:11:48.588626 [info] : Client[12](192.168.33.1:4816) in, userCount:1
+2022-07-29 11:11:48.588683 [info] : Client[12] in!
+2022-07-29 11:11:48.590012 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:11:48.590051 [debug]: /index.html
+2022-07-29 11:11:48.590080 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:11:48.590222 [debug]: filesize:748, 2  to 832
+2022-07-29 11:11:48.590439 [info] : Client[12] quit!
+2022-07-29 11:11:48.590543 [info] : Client[12](192.168.33.1:4816) quit, UserCount:0
+2022-07-29 11:11:49.994951 [info] : Client[12](192.168.33.1:5840) in, userCount:1
+2022-07-29 11:11:49.995102 [info] : Client[12] in!
+2022-07-29 11:11:49.996589 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 11:11:49.996600 [debug]: /login.html
+2022-07-29 11:11:49.996622 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 11:11:49.996638 [debug]: filesize:714, 2  to 798
+2022-07-29 11:11:49.996784 [info] : Client[12] quit!
+2022-07-29 11:11:49.996869 [info] : Client[12](192.168.33.1:5840) quit, UserCount:0
+2022-07-29 11:12:00.007393 [info] : Client[12] quit!
+2022-07-29 11:12:08.273514 [info] : Client[12](192.168.33.1:10192) in, userCount:1
+2022-07-29 11:12:08.273584 [info] : Client[12] in!
+2022-07-29 11:12:08.276197 [debug]: Tag:1
+2022-07-29 11:12:08.276231 [info] : Verify name:username pwd:password
+2022-07-29 11:12:08.276238 [debug]: SELECT username, passwd FROM user WHERE username='username' LIMIT 1
+2022-07-29 11:12:08.289984 [debug]: [POST], [/error.html], [1.1]
+2022-07-29 11:12:08.290022 [debug]: /error.html
+2022-07-29 11:12:08.290098 [debug]: filesize:0, 1  to 217
+2022-07-29 11:12:08.290248 [info] : Client[12] quit!
+2022-07-29 11:12:08.290316 [info] : Client[12](192.168.33.1:10192) quit, UserCount:0
+2022-07-29 11:12:18.300518 [info] : Client[12] quit!
+2022-07-29 11:12:45.067142 [info] : Client[12](192.168.33.1:15824) in, userCount:1
+2022-07-29 11:12:45.067327 [info] : Client[12] in!
+2022-07-29 11:12:45.069806 [debug]: Tag:1
+2022-07-29 11:12:45.069831 [info] : Verify name:username pwd:password
+2022-07-29 11:12:45.069838 [debug]: SELECT username, passwd FROM user WHERE username='username' LIMIT 1
+2022-07-29 11:12:45.111772 [debug]: [POST], [/error.html], [1.1]
+2022-07-29 11:12:45.111826 [debug]: /error.html
+2022-07-29 11:12:45.111914 [debug]: filesize:0, 1  to 217
+2022-07-29 11:12:45.112105 [info] : Client[12] quit!
+2022-07-29 11:12:45.112169 [info] : Client[12](192.168.33.1:15824) quit, UserCount:0
+2022-07-29 11:12:55.122556 [info] : Client[12] quit!
+2022-07-29 11:14:40.728606 [info] : Client[12](192.168.33.1:33232) in, userCount:1
+2022-07-29 11:14:40.728666 [info] : Client[12] in!
+2022-07-29 11:14:40.730481 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:14:40.730506 [debug]: /index.html
+2022-07-29 11:14:40.730585 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:14:40.730629 [debug]: filesize:748, 2  to 832
+2022-07-29 11:14:40.730811 [info] : Client[12] quit!
+2022-07-29 11:14:40.730873 [info] : Client[12](192.168.33.1:33232) quit, UserCount:0
+2022-07-29 11:14:42.522440 [info] : Client[12](192.168.33.1:34512) in, userCount:1
+2022-07-29 11:14:42.522502 [info] : Client[12] in!
+2022-07-29 11:14:42.524014 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 11:14:42.524038 [debug]: /login.html
+2022-07-29 11:14:42.524096 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 11:14:42.524164 [debug]: filesize:714, 2  to 798
+2022-07-29 11:14:42.524296 [info] : Client[12] quit!
+2022-07-29 11:14:42.524394 [info] : Client[12](192.168.33.1:34512) quit, UserCount:0
+2022-07-29 11:14:52.534557 [info] : Client[12] quit!
+2022-07-29 11:14:56.527199 [info] : Client[12](192.168.33.1:38096) in, userCount:1
+2022-07-29 11:14:56.527265 [info] : Client[12] in!
+2022-07-29 11:14:56.530315 [debug]: Tag:1
+2022-07-29 11:14:56.530339 [info] : Verify name:name pwd:password
+2022-07-29 11:14:56.530346 [debug]: SELECT username, passwd FROM user WHERE username='name' LIMIT 1
+2022-07-29 11:14:56.545371 [debug]: [POST], [/error.html], [1.1]
+2022-07-29 11:14:56.545414 [debug]: /error.html
+2022-07-29 11:14:56.545487 [debug]: filesize:0, 1  to 217
+2022-07-29 11:14:56.545669 [info] : Client[12] quit!
+2022-07-29 11:14:56.545746 [info] : Client[12](192.168.33.1:38096) quit, UserCount:0
+2022-07-29 11:15:00.652968 [info] : Client[12](192.168.33.1:40144) in, userCount:1
+2022-07-29 11:15:00.653034 [info] : Client[12] in!
+2022-07-29 11:15:00.654719 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:15:00.654746 [debug]: /index.html
+2022-07-29 11:15:00.654810 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:15:00.654870 [debug]: filesize:748, 2  to 832
+2022-07-29 11:15:00.655016 [info] : Client[12] quit!
+2022-07-29 11:15:00.655108 [info] : Client[12](192.168.33.1:40144) quit, UserCount:0
+2022-07-29 11:15:01.574893 [info] : Client[12](192.168.33.1:41168) in, userCount:1
+2022-07-29 11:15:01.574974 [info] : Client[12] in!
+2022-07-29 11:15:01.576444 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 11:15:01.576473 [debug]: /login.html
+2022-07-29 11:15:01.576526 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 11:15:01.576579 [debug]: filesize:714, 2  to 798
+2022-07-29 11:15:01.576707 [info] : Client[12] quit!
+2022-07-29 11:15:01.576778 [info] : Client[12](192.168.33.1:41168) quit, UserCount:0
+2022-07-29 11:15:11.579871 [info] : Client[12] quit!
+2022-07-29 11:15:23.503308 [info] : Client[12](192.168.33.1:47056) in, userCount:1
+2022-07-29 11:15:23.503381 [info] : Client[12] in!
+2022-07-29 11:15:23.505321 [debug]: Tag:1
+2022-07-29 11:15:23.505367 [info] : Verify name:name pwd:password
+2022-07-29 11:15:23.505374 [debug]: SELECT username, passwd FROM user WHERE username='name' LIMIT 1
+2022-07-29 11:15:23.518222 [debug]: [POST], [/error.html], [1.1]
+2022-07-29 11:15:23.518273 [debug]: /error.html
+2022-07-29 11:15:23.518372 [debug]: filesize:0, 1  to 217
+2022-07-29 11:15:23.518587 [info] : Client[12] quit!
+2022-07-29 11:15:23.518668 [info] : Client[12](192.168.33.1:47056) quit, UserCount:0
+2022-07-29 11:15:33.528891 [info] : Client[12] quit!
+2022-07-29 11:20:56.950071 [info] : ========== Server init ==========
+2022-07-29 11:20:56.950095 [info] : Port:9999, OpenLinger: false
+2022-07-29 11:20:56.950100 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 11:20:56.950195 [info] : LogSys Open: 1
+2022-07-29 11:20:56.950213 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 11:20:56.950217 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 11:20:56.955712 [info] : Server port:9999
+2022-07-29 11:20:56.955750 [info] : ========== Server start ==========
+2022-07-29 11:21:02.298807 [info] : Client[12](192.168.33.1:9690) in, userCount:1
+2022-07-29 11:21:02.298885 [info] : Client[12] in!
+2022-07-29 11:21:02.300529 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:21:02.300553 [debug]: /index.html
+2022-07-29 11:21:02.300599 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:21:02.312211 [debug]: filesize:748, 2  to 832
+2022-07-29 11:21:02.312395 [info] : Client[12] quit!
+2022-07-29 11:21:02.312506 [info] : Client[12](192.168.33.1:9690) quit, UserCount:0
+2022-07-29 11:21:03.927043 [info] : Client[12](192.168.33.1:10970) in, userCount:1
+2022-07-29 11:21:03.927101 [info] : Client[12] in!
+2022-07-29 11:21:03.928438 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 11:21:03.928462 [debug]: /login.html
+2022-07-29 11:21:03.928527 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 11:21:03.928966 [debug]: filesize:714, 2  to 798
+2022-07-29 11:21:03.929084 [info] : Client[12] quit!
+2022-07-29 11:21:03.929170 [info] : Client[12](192.168.33.1:10970) quit, UserCount:0
+2022-07-29 11:21:10.534404 [info] : Client[12](192.168.33.1:12250) in, userCount:1
+2022-07-29 11:21:10.534464 [info] : Client[12] in!
+2022-07-29 11:21:10.536585 [debug]: Tag:1
+2022-07-29 11:21:10.536606 [info] : Verify name:name pwd:password
+2022-07-29 11:21:10.536612 [debug]: SELECT username, passwd FROM user WHERE username='name' LIMIT 1
+2022-07-29 11:21:10.580034 [debug]: MYSQL ROW: name password
+2022-07-29 11:21:10.580090 [debug]: [POST], [/welcome.html], [1.1]
+2022-07-29 11:21:10.580097 [debug]: /welcome.html
+2022-07-29 11:21:10.580188 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/welcome.html
+2022-07-29 11:21:10.580556 [debug]: filesize:715, 2  to 799
+2022-07-29 11:21:10.580709 [info] : Client[12] quit!
+2022-07-29 11:21:10.580795 [info] : Client[12](192.168.33.1:12250) quit, UserCount:0
+2022-07-29 11:21:20.584476 [info] : Client[12] quit!
+2022-07-29 11:21:34.145859 [info] : Client[12](192.168.33.1:18650) in, userCount:1
+2022-07-29 11:21:34.145921 [info] : Client[12] in!
+2022-07-29 11:21:34.147467 [debug]: [GET], [/MENU], [1.1]
+2022-07-29 11:21:34.147499 [debug]: /MENU
+2022-07-29 11:21:34.147617 [debug]: filesize:4096, 1  to 590
+2022-07-29 11:21:34.147743 [info] : Client[12] quit!
+2022-07-29 11:21:34.147831 [info] : Client[12](192.168.33.1:18650) quit, UserCount:0
+2022-07-29 11:21:35.988608 [info] : Client[12](192.168.33.1:20954) in, userCount:1
+2022-07-29 11:21:35.988688 [info] : Client[12] in!
+2022-07-29 11:21:35.990650 [debug]: [GET], [/upload.html], [1.1]
+2022-07-29 11:21:35.990677 [debug]: /upload.html
+2022-07-29 11:21:35.990775 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/upload.html
+2022-07-29 11:21:35.002437 [debug]: filesize:2424, 2  to 2509
+2022-07-29 11:21:35.002616 [info] : Client[12] quit!
+2022-07-29 11:21:35.002764 [info] : Client[12](192.168.33.1:20954) quit, UserCount:0
+2022-07-29 11:21:37.313363 [info] : Client[12](192.168.33.1:24282) in, userCount:1
+2022-07-29 11:21:37.313427 [info] : Client[12] in!
+2022-07-29 11:21:37.314799 [debug]: [GET], [/test.html], [1.1]
+2022-07-29 11:21:37.314822 [debug]: /test.html
+2022-07-29 11:21:37.314862 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/test.html
+2022-07-29 11:21:37.327349 [debug]: filesize:706, 2  to 790
+2022-07-29 11:21:37.327586 [info] : Client[12] quit!
+2022-07-29 11:21:37.327693 [info] : Client[12](192.168.33.1:24282) quit, UserCount:0
+2022-07-29 11:21:47.336133 [info] : Client[12] quit!
+2022-07-29 11:22:00.794385 [info] : Client[12](192.168.33.1:29658) in, userCount:1
+2022-07-29 11:22:00.794449 [info] : Client[12] in!
+2022-07-29 11:22:00.796097 [debug]: [GET], [/test.html], [1.1]
+2022-07-29 11:22:00.796142 [debug]: /test.html
+2022-07-29 11:22:00.796228 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/test.html
+2022-07-29 11:22:00.796265 [debug]: filesize:706, 2  to 790
+2022-07-29 11:22:00.796448 [info] : Client[12] quit!
+2022-07-29 11:22:00.796552 [info] : Client[12](192.168.33.1:29658) quit, UserCount:0
+2022-07-29 11:22:07.852216 [info] : Client[12](192.168.33.1:31962) in, userCount:1
+2022-07-29 11:22:07.852303 [info] : Client[12] in!
+2022-07-29 11:22:07.853906 [debug]: [GET], [/testVideo.html], [1.1]
+2022-07-29 11:22:07.853931 [debug]: /testVideo.html
+2022-07-29 11:22:07.853994 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testVideo.html
+2022-07-29 11:22:07.866665 [debug]: filesize:393, 2  to 477
+2022-07-29 11:22:07.866898 [info] : Client[12] quit!
+2022-07-29 11:22:07.866989 [info] : Client[12](192.168.33.1:31962) quit, UserCount:0
+2022-07-29 11:22:07.946211 [info] : Client[12](192.168.33.1:32218) in, userCount:1
+2022-07-29 11:22:07.946394 [info] : Client[12] in!
+2022-07-29 11:22:07.948144 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 11:22:07.948200 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 11:22:07.948298 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 11:22:07.949625 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 11:22:16.801081 [info] : Client[12] quit!
+2022-07-29 11:22:16.801743 [info] : Client[12](192.168.33.1:32218) quit, UserCount:0
+2022-07-29 11:22:19.804875 [info] : Client[12] quit!
+2022-07-29 11:22:20.326130 [info] : Client[12](192.168.33.1:36570) in, userCount:1
+2022-07-29 11:22:20.326222 [info] : Client[12] in!
+2022-07-29 11:22:20.328081 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 11:22:20.328107 [debug]: /register.html
+2022-07-29 11:22:20.328162 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 11:22:20.338128 [debug]: filesize:722, 2  to 806
+2022-07-29 11:22:20.338327 [info] : Client[12] quit!
+2022-07-29 11:22:20.338434 [info] : Client[12](192.168.33.1:36570) quit, UserCount:0
+2022-07-29 11:22:30.347986 [info] : Client[12] quit!
+2022-07-29 11:22:36.243848 [info] : Client[12](192.168.33.1:40410) in, userCount:1
+2022-07-29 11:22:36.243926 [info] : Client[12] in!
+2022-07-29 11:22:36.245782 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 11:22:36.245808 [debug]: /login.html
+2022-07-29 11:22:36.245832 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 11:22:36.245902 [debug]: filesize:714, 2  to 798
+2022-07-29 11:22:36.246029 [info] : Client[12] quit!
+2022-07-29 11:22:36.246125 [info] : Client[12](192.168.33.1:40410) quit, UserCount:0
+2022-07-29 11:22:38.208345 [info] : Client[12](192.168.33.1:41690) in, userCount:1
+2022-07-29 11:22:38.208731 [info] : Client[12] in!
+2022-07-29 11:22:38.212235 [debug]: Tag:1
+2022-07-29 11:22:38.212264 [info] : Verify name:name pwd:password
+2022-07-29 11:22:38.212271 [debug]: SELECT username, passwd FROM user WHERE username='name' LIMIT 1
+2022-07-29 11:22:38.214516 [debug]: MYSQL ROW: name password
+2022-07-29 11:22:38.214548 [debug]: [POST], [/welcome.html], [1.1]
+2022-07-29 11:22:38.214553 [debug]: /welcome.html
+2022-07-29 11:22:38.214585 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/welcome.html
+2022-07-29 11:22:38.214616 [debug]: filesize:715, 2  to 799
+2022-07-29 11:22:38.214758 [info] : Client[12] quit!
+2022-07-29 11:22:38.214818 [info] : Client[12](192.168.33.1:41690) quit, UserCount:0
+2022-07-29 11:22:39.543999 [info] : Client[12](192.168.33.1:43482) in, userCount:1
+2022-07-29 11:22:39.544061 [info] : Client[12] in!
+2022-07-29 11:22:39.545753 [debug]: [GET], [/test.html], [1.1]
+2022-07-29 11:22:39.545782 [debug]: /test.html
+2022-07-29 11:22:39.545807 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/test.html
+2022-07-29 11:22:39.545851 [debug]: filesize:706, 2  to 790
+2022-07-29 11:22:39.545947 [info] : Client[12] quit!
+2022-07-29 11:22:39.546016 [info] : Client[12](192.168.33.1:43482) quit, UserCount:0
+2022-07-29 11:22:40.505873 [info] : Client[12](192.168.33.1:44762) in, userCount:1
+2022-07-29 11:22:40.505965 [info] : Client[12] in!
+2022-07-29 11:22:40.507588 [debug]: [GET], [/testMusic.html], [1.1]
+2022-07-29 11:22:40.507611 [debug]: /testMusic.html
+2022-07-29 11:22:40.507658 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testMusic.html
+2022-07-29 11:22:40.518299 [debug]: filesize:523, 2  to 607
+2022-07-29 11:22:40.518505 [info] : Client[12] quit!
+2022-07-29 11:22:40.518611 [info] : Client[12](192.168.33.1:44762) quit, UserCount:0
+2022-07-29 11:22:40.575445 [info] : Client[12](192.168.33.1:45018) in, userCount:1
+2022-07-29 11:22:40.575533 [info] : Client[12] in!
+2022-07-29 11:22:40.577227 [debug]: [GET], [/周杰伦-一路向北.flac], [1.1]
+2022-07-29 11:22:40.577254 [debug]: /周杰伦-一路向北.flac
+2022-07-29 11:22:40.577307 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/music/周杰伦-一路向北.flac
+2022-07-29 11:22:40.577972 [debug]: filesize:63065214, 2  to 63065304
+2022-07-29 11:22:44.845236 [info] : Client[12] quit!
+2022-07-29 11:22:44.845926 [info] : Client[12](192.168.33.1:45018) quit, UserCount:0
+2022-07-29 11:22:46.073414 [info] : Client[12](192.168.33.1:47578) in, userCount:1
+2022-07-29 11:22:46.073482 [info] : Client[12] in!
+2022-07-29 11:22:46.074873 [debug]: [GET], [/testImage.html], [1.1]
+2022-07-29 11:22:46.074901 [debug]: /testImage.html
+2022-07-29 11:22:46.074929 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testImage.html
+2022-07-29 11:22:46.086587 [debug]: filesize:329, 2  to 413
+2022-07-29 11:22:46.086870 [info] : Client[12] quit!
+2022-07-29 11:22:46.087078 [info] : Client[12](192.168.33.1:47578) quit, UserCount:0
+2022-07-29 11:22:46.116497 [info] : Client[12](192.168.33.1:47834) in, userCount:1
+2022-07-29 11:22:46.116570 [info] : Client[12] in!
+2022-07-29 11:22:46.118014 [debug]: [GET], [/周杰伦.jpg], [1.1]
+2022-07-29 11:22:46.118065 [debug]: /周杰伦.jpg
+2022-07-29 11:22:46.118101 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/image/周杰伦.jpg
+2022-07-29 11:22:46.118697 [debug]: filesize:60541, 2  to 60628
+2022-07-29 11:22:46.118985 [info] : Client[12] quit!
+2022-07-29 11:22:46.119063 [info] : Client[12](192.168.33.1:47834) quit, UserCount:0
+2022-07-29 11:22:49.632488 [info] : Client[12](192.168.33.1:49882) in, userCount:1
+2022-07-29 11:22:49.632638 [info] : Client[12] in!
+2022-07-29 11:22:49.634354 [debug]: [GET], [/testVideo.html], [1.1]
+2022-07-29 11:22:49.634378 [debug]: /testVideo.html
+2022-07-29 11:22:49.634428 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testVideo.html
+2022-07-29 11:22:49.634500 [debug]: filesize:393, 2  to 477
+2022-07-29 11:22:49.634623 [info] : Client[12] quit!
+2022-07-29 11:22:49.634718 [info] : Client[12](192.168.33.1:49882) quit, UserCount:0
+2022-07-29 11:22:49.685394 [info] : Client[12](192.168.33.1:50394) in, userCount:1
+2022-07-29 11:22:49.685547 [info] : Client[12] in!
+2022-07-29 11:22:49.687310 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 11:22:49.687390 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 11:22:49.687496 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 11:22:49.687538 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 11:22:51.091140 [info] : Client[12] quit!
+2022-07-29 11:22:51.091759 [info] : Client[12](192.168.33.1:50394) quit, UserCount:0
+2022-07-29 11:22:52.957961 [info] : Client[12](192.168.33.1:53466) in, userCount:1
+2022-07-29 11:22:52.958021 [info] : Client[12] in!
+2022-07-29 11:22:52.959612 [debug]: [GET], [/upload.html], [1.1]
+2022-07-29 11:22:52.959667 [debug]: /upload.html
+2022-07-29 11:22:52.959691 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/upload.html
+2022-07-29 11:22:52.959709 [debug]: filesize:2424, 2  to 2509
+2022-07-29 11:22:52.959837 [info] : Client[12] quit!
+2022-07-29 11:22:52.959905 [info] : Client[12](192.168.33.1:53466) quit, UserCount:0
+2022-07-29 11:22:59.299752 [info] : Client[12](192.168.33.1:54746) in, userCount:1
+2022-07-29 11:22:59.299807 [info] : Client[12] in!
+2022-07-29 11:22:59.302991 [info] : httprequest: save file successed ! dir : @
+2022-07-29 11:22:59.303077 [debug]: [POST], [upload_ok], [1.1]
+2022-07-29 11:22:59.303094 [debug]: upload_ok
+2022-07-29 11:22:59.303099 [debug]: filesize:0, 1  to 16
+2022-07-29 11:22:59.303236 [info] : Client[12] quit!
+2022-07-29 11:22:59.303459 [info] : Client[12](192.168.33.1:54746) quit, UserCount:0
+2022-07-29 11:22:59.305236 [info] : Client[12](192.168.33.1:55258) in, userCount:1
+2022-07-29 11:22:59.305287 [info] : Client[12] in!
+2022-07-29 11:22:59.307494 [info] : httprequest: save file successed ! dir : `
+2022-07-29 11:22:59.307686 [debug]: [POST], [upload_ok], [1.1]
+2022-07-29 11:22:59.307698 [debug]: upload_ok
+2022-07-29 11:22:59.307704 [debug]: filesize:0, 1  to 16
+2022-07-29 11:22:59.307818 [info] : Client[12] quit!
+2022-07-29 11:22:59.307966 [info] : Client[12](192.168.33.1:55258) quit, UserCount:0
+2022-07-29 11:23:07.767357 [info] : Client[12](192.168.33.1:57562) in, userCount:1
+2022-07-29 11:23:07.767429 [info] : Client[12] in!
+2022-07-29 11:23:07.769138 [debug]: [GET], [/MENU], [1.1]
+2022-07-29 11:23:07.769167 [debug]: /MENU
+2022-07-29 11:23:07.769278 [debug]: filesize:4096, 1  to 590
+2022-07-29 11:23:07.769397 [info] : Client[12] quit!
+2022-07-29 11:23:07.769459 [info] : Client[12](192.168.33.1:57562) quit, UserCount:0
+2022-07-29 11:23:10.532297 [info] : Client[12](192.168.33.1:58842) in, userCount:1
+2022-07-29 11:23:10.532359 [info] : Client[12] in!
+2022-07-29 11:23:10.533766 [debug]: [GET], [/file], [1.1]
+2022-07-29 11:23:10.533789 [debug]: /file
+2022-07-29 11:23:10.533869 [debug]: filesize:4096, 1  to 395
+2022-07-29 11:23:10.533989 [info] : Client[12] quit!
+2022-07-29 11:23:10.534074 [info] : Client[12](192.168.33.1:58842) quit, UserCount:0
+2022-07-29 11:23:14.135820 [info] : Client[12](192.168.33.1:61402) in, userCount:1
+2022-07-29 11:23:14.136007 [info] : Client[12] in!
+2022-07-29 11:23:14.137537 [debug]: [GET], [/html], [1.1]
+2022-07-29 11:23:14.137561 [debug]: /html
+2022-07-29 11:23:14.137653 [debug]: filesize:4096, 1  to 1153
+2022-07-29 11:23:14.137811 [info] : Client[12] quit!
+2022-07-29 11:23:14.137961 [info] : Client[12](192.168.33.1:61402) quit, UserCount:0
+2022-07-29 11:23:17.216669 [info] : Client[12](192.168.33.1:64730) in, userCount:1
+2022-07-29 11:23:17.216738 [info] : Client[12] in!
+2022-07-29 11:23:17.218294 [debug]: [GET], [/upload.html], [1.1]
+2022-07-29 11:23:17.218326 [debug]: /upload.html
+2022-07-29 11:23:17.218377 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/upload.html
+2022-07-29 11:23:17.218428 [debug]: filesize:2424, 2  to 2509
+2022-07-29 11:23:17.218575 [info] : Client[12] quit!
+2022-07-29 11:23:17.218652 [info] : Client[12](192.168.33.1:64730) quit, UserCount:0
+2022-07-29 11:23:18.842070 [info] : Client[12](192.168.33.1:1755) in, userCount:1
+2022-07-29 11:23:18.842133 [info] : Client[12] in!
+2022-07-29 11:23:18.843694 [debug]: [GET], [/MENU], [1.1]
+2022-07-29 11:23:18.843744 [debug]: /MENU
+2022-07-29 11:23:18.843937 [debug]: filesize:4096, 1  to 590
+2022-07-29 11:23:18.844039 [info] : Client[12] quit!
+2022-07-29 11:23:18.844090 [info] : Client[12](192.168.33.1:1755) quit, UserCount:0
+2022-07-29 11:23:20.126986 [info] : Client[12](192.168.33.1:3035) in, userCount:1
+2022-07-29 11:23:20.127039 [info] : Client[12] in!
+2022-07-29 11:23:20.128768 [debug]: [GET], [/upload], [1.1]
+2022-07-29 11:23:20.128797 [debug]: /upload
+2022-07-29 11:23:20.128858 [debug]: filesize:4096, 1  to 385
+2022-07-29 11:23:20.128980 [info] : Client[12] quit!
+2022-07-29 11:23:20.129046 [info] : Client[12](192.168.33.1:3035) quit, UserCount:0
+2022-07-29 11:23:24.047908 [info] : Client[12](192.168.33.1:6107) in, userCount:1
+2022-07-29 11:23:24.047966 [info] : Client[12] in!
+2022-07-29 11:23:24.118551 [debug]: [GET], [/岳子冲.pdf], [1.1]
+2022-07-29 11:23:24.118592 [debug]: /岳子冲.pdf
+2022-07-29 11:23:24.118758 [debug]: filesize:0, 1  to 217
+2022-07-29 11:23:24.118899 [info] : Client[12] quit!
+2022-07-29 11:23:24.118957 [info] : Client[12](192.168.33.1:6107) quit, UserCount:0
+2022-07-29 11:23:24.121001 [info] : Client[12](192.168.33.1:6363) in, userCount:1
+2022-07-29 11:23:24.121055 [info] : Client[12] in!
+2022-07-29 11:23:24.123066 [debug]: [GET], [/岳子冲.pdf], [1.1]
+2022-07-29 11:23:24.123121 [debug]: /岳子冲.pdf
+2022-07-29 11:23:24.123205 [debug]: filesize:0, 1  to 217
+2022-07-29 11:23:24.123351 [info] : Client[12] quit!
+2022-07-29 11:23:24.123413 [info] : Client[12](192.168.33.1:6363) quit, UserCount:0
+2022-07-29 11:23:24.197942 [info] : Client[12](192.168.33.1:6619) in, userCount:1
+2022-07-29 11:23:24.198026 [info] : Client[12] in!
+2022-07-29 11:23:24.199813 [debug]: [GET], [/岳子冲.pdf], [1.1]
+2022-07-29 11:23:24.199849 [debug]: /岳子冲.pdf
+2022-07-29 11:23:24.199888 [debug]: filesize:0, 1  to 217
+2022-07-29 11:23:24.200025 [info] : Client[12] quit!
+2022-07-29 11:23:24.200087 [info] : Client[12](192.168.33.1:6619) quit, UserCount:0
+2022-07-29 11:23:24.201901 [info] : Client[12](192.168.33.1:6875) in, userCount:1
+2022-07-29 11:23:24.201946 [info] : Client[12] in!
+2022-07-29 11:23:24.203399 [debug]: [GET], [/岳子冲.pdf], [1.1]
+2022-07-29 11:23:24.203451 [debug]: /岳子冲.pdf
+2022-07-29 11:23:24.203537 [debug]: filesize:0, 1  to 217
+2022-07-29 11:23:24.203693 [info] : Client[12] quit!
+2022-07-29 11:23:24.203752 [info] : Client[12](192.168.33.1:6875) quit, UserCount:0
+2022-07-29 11:23:24.205921 [info] : Client[12](192.168.33.1:7131) in, userCount:1
+2022-07-29 11:23:24.205967 [info] : Client[12] in!
+2022-07-29 11:23:24.207786 [debug]: [GET], [/岳子冲.pdf], [1.1]
+2022-07-29 11:23:24.207816 [debug]: /岳子冲.pdf
+2022-07-29 11:23:24.207848 [debug]: filesize:0, 1  to 217
+2022-07-29 11:23:24.207972 [info] : Client[12] quit!
+2022-07-29 11:23:24.208035 [info] : Client[12](192.168.33.1:7131) quit, UserCount:0
+2022-07-29 11:23:27.090010 [info] : Client[12](192.168.33.1:9691) in, userCount:1
+2022-07-29 11:23:27.090070 [info] : Client[12] in!
+2022-07-29 11:23:27.091615 [debug]: [GET], [/uploadtest.txt], [1.1]
+2022-07-29 11:23:27.091660 [debug]: /uploadtest.txt
+2022-07-29 11:23:27.091704 [debug]: filesize:0, 1  to 217
+2022-07-29 11:23:27.091973 [info] : Client[12] quit!
+2022-07-29 11:23:27.092090 [info] : Client[12](192.168.33.1:9691) quit, UserCount:0
+2022-07-29 11:23:29.621811 [info] : Client[12](192.168.33.1:13275) in, userCount:1
+2022-07-29 11:23:29.621872 [info] : Client[12] in!
+2022-07-29 11:23:29.623193 [debug]: [GET], [/video], [1.1]
+2022-07-29 11:23:29.623235 [debug]: /video
+2022-07-29 11:23:29.623330 [debug]: filesize:4096, 1  to 422
+2022-07-29 11:23:29.623401 [info] : Client[12] quit!
+2022-07-29 11:23:29.623447 [info] : Client[12](192.168.33.1:13275) quit, UserCount:0
+2022-07-29 11:23:32.396257 [info] : Client[12](192.168.33.1:17115) in, userCount:1
+2022-07-29 11:23:32.396337 [info] : Client[12] in!
+2022-07-29 11:23:32.397898 [debug]: [GET], [/test.html], [1.1]
+2022-07-29 11:23:32.397923 [debug]: /test.html
+2022-07-29 11:23:32.397967 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/test.html
+2022-07-29 11:23:32.398009 [debug]: filesize:706, 2  to 790
+2022-07-29 11:23:32.398122 [info] : Client[12] quit!
+2022-07-29 11:23:32.398216 [info] : Client[12](192.168.33.1:17115) quit, UserCount:0
+2022-07-29 11:23:33.184664 [info] : Client[12](192.168.33.1:18395) in, userCount:1
+2022-07-29 11:23:33.184731 [info] : Client[12] in!
+2022-07-29 11:23:33.186374 [debug]: [GET], [/testVideo.html], [1.1]
+2022-07-29 11:23:33.186400 [debug]: /testVideo.html
+2022-07-29 11:23:33.186424 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testVideo.html
+2022-07-29 11:23:33.186448 [debug]: filesize:393, 2  to 477
+2022-07-29 11:23:33.186571 [info] : Client[12] quit!
+2022-07-29 11:23:33.186676 [info] : Client[12](192.168.33.1:18395) quit, UserCount:0
+2022-07-29 11:23:33.243766 [info] : Client[12](192.168.33.1:18651) in, userCount:1
+2022-07-29 11:23:33.243889 [info] : Client[12] in!
+2022-07-29 11:23:33.245397 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 11:23:33.245427 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 11:23:33.245505 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 11:23:33.245550 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 11:23:42.922584 [info] : Client[12] quit!
+2022-07-29 11:23:42.923453 [info] : Client[12](192.168.33.1:18651) quit, UserCount:0
+2022-07-29 11:23:44.926303 [info] : Client[12] quit!
+2022-07-29 11:23:50.273785 [info] : Client[12](192.168.33.1:26587) in, userCount:1
+2022-07-29 11:23:50.273846 [info] : Client[12] in!
+2022-07-29 11:23:50.275265 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 11:23:50.275317 [debug]: /register.html
+2022-07-29 11:23:50.275349 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 11:23:50.275386 [debug]: filesize:722, 2  to 806
+2022-07-29 11:23:50.275579 [info] : Client[12] quit!
+2022-07-29 11:23:50.275678 [info] : Client[12](192.168.33.1:26587) quit, UserCount:0
+2022-07-29 11:23:53.791804 [info] : Client[12](192.168.33.1:27867) in, userCount:1
+2022-07-29 11:23:53.791874 [info] : Client[12] in!
+2022-07-29 11:23:53.794024 [debug]: Tag:0
+2022-07-29 11:23:53.794067 [info] : Verify name:name pwd:password
+2022-07-29 11:23:53.794075 [debug]: SELECT username, passwd FROM user WHERE username='name' LIMIT 1
+2022-07-29 11:23:53.808367 [debug]: MYSQL ROW: name password
+2022-07-29 11:23:53.808401 [debug]: user used!
+2022-07-29 11:23:53.808408 [debug]: [POST], [/registerError.html], [1.1]
+2022-07-29 11:23:53.808470 [debug]: /registerError.html
+2022-07-29 11:23:53.808502 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/registerError.html
+2022-07-29 11:23:53.808907 [debug]: filesize:821, 2  to 905
+2022-07-29 11:23:53.809018 [info] : Client[12] quit!
+2022-07-29 11:23:53.809077 [info] : Client[12](192.168.33.1:27867) quit, UserCount:0
+2022-07-29 11:24:03.811230 [info] : Client[12] quit!
+2022-07-29 11:26:50.591348 [info] : ========== Server init ==========
+2022-07-29 11:26:50.591354 [info] : Port:9999, OpenLinger: false
+2022-07-29 11:26:50.591357 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 11:26:50.591359 [info] : LogSys Open: 1
+2022-07-29 11:26:50.591361 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 11:26:50.591363 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 11:26:50.594844 [info] : Server port:9999
+2022-07-29 11:26:50.594876 [info] : ========== Server start ==========
+2022-07-29 11:26:53.473920 [info] : Client[12](192.168.33.1:52443) in, userCount:1
+2022-07-29 11:26:53.473996 [info] : Client[12] in!
+2022-07-29 11:26:53.475744 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:26:53.475768 [debug]: /index.html
+2022-07-29 11:26:53.475805 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:26:53.475819 [debug]: filesize:748, 2  to 832
+2022-07-29 11:26:53.475972 [info] : Client[12] quit!
+2022-07-29 11:26:53.476055 [info] : Client[12](192.168.33.1:52443) quit, UserCount:0
+2022-07-29 11:26:57.745212 [info] : Client[12](192.168.33.1:54491) in, userCount:1
+2022-07-29 11:26:57.745281 [info] : Client[12] in!
+2022-07-29 11:26:57.746659 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 11:26:57.746682 [debug]: /login.html
+2022-07-29 11:26:57.746707 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 11:26:57.746718 [debug]: filesize:714, 2  to 798
+2022-07-29 11:26:57.746875 [info] : Client[12] quit!
+2022-07-29 11:26:57.747000 [info] : Client[12](192.168.33.1:54491) quit, UserCount:0
+2022-07-29 11:27:04.612221 [info] : Client[12](192.168.33.1:56027) in, userCount:1
+2022-07-29 11:27:04.612283 [info] : Client[12] in!
+2022-07-29 11:27:04.614423 [debug]: Tag:1
+2022-07-29 11:27:04.614446 [info] : Verify name:qianxunslimg pwd:123456
+2022-07-29 11:27:04.614453 [debug]: SELECT username, passwd FROM user WHERE username='qianxunslimg' LIMIT 1
+2022-07-29 11:27:04.626641 [debug]: MYSQL ROW: qianxunslimg 123456
+2022-07-29 11:27:04.626697 [debug]: [POST], [/welcome.html], [1.1]
+2022-07-29 11:27:04.626704 [debug]: /welcome.html
+2022-07-29 11:27:04.626771 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/welcome.html
+2022-07-29 11:27:04.626809 [debug]: filesize:715, 2  to 799
+2022-07-29 11:27:04.627061 [info] : Client[12] quit!
+2022-07-29 11:27:04.627211 [info] : Client[12](192.168.33.1:56027) quit, UserCount:0
+2022-07-29 11:27:14.637724 [info] : Client[12] quit!
+2022-07-29 11:42:35.050388 [info] : ========== Server init ==========
+2022-07-29 11:42:35.050409 [info] : Port:9999, OpenLinger: false
+2022-07-29 11:42:35.050414 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 11:42:35.050416 [info] : LogSys Open: 1
+2022-07-29 11:42:35.050418 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 11:42:35.050423 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 11:42:35.067999 [info] : Server port:9999
+2022-07-29 11:42:35.068050 [info] : ========== Server start ==========
+2022-07-29 11:42:44.882718 [info] : Client[12](192.168.33.1:16350) in, userCount:1
+2022-07-29 11:42:44.882789 [info] : Client[12] in!
+2022-07-29 11:42:44.884726 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 11:42:44.884773 [debug]: /index.html
+2022-07-29 11:42:44.884806 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 11:42:44.884820 [debug]: filesize:829, 2  to 913
+2022-07-29 11:42:44.885021 [info] : Client[12] quit!
+2022-07-29 11:42:44.885124 [info] : Client[12](192.168.33.1:16350) quit, UserCount:0
+2022-07-29 11:42:49.058674 [info] : Client[12](192.168.33.1:18654) in, userCount:1
+2022-07-29 11:42:49.058751 [info] : Client[12] in!
+2022-07-29 11:42:49.060415 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 11:42:49.060443 [debug]: /register.html
+2022-07-29 11:42:49.060504 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 11:42:49.060531 [debug]: filesize:722, 2  to 806
+2022-07-29 11:42:49.060689 [info] : Client[12] quit!
+2022-07-29 11:42:49.061264 [info] : Client[12](192.168.33.1:18654) quit, UserCount:0
+2022-07-29 11:42:50.442155 [info] : Client[12](192.168.33.1:20702) in, userCount:1
+2022-07-29 11:42:50.442223 [info] : Client[12] in!
+2022-07-29 11:42:50.443815 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 11:42:50.443846 [debug]: /login.html
+2022-07-29 11:42:50.443876 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 11:42:50.443903 [debug]: filesize:714, 2  to 798
+2022-07-29 11:42:50.444018 [info] : Client[12] quit!
+2022-07-29 11:42:50.444110 [info] : Client[12](192.168.33.1:20702) quit, UserCount:0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 2022-07-29 14:44:05.809692 [info] : ========== Server init ==========
+2022-07-29 14:44:05.809793 [info] : Port:9999, OpenLinger: false
+2022-07-29 14:44:05.809796 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 14:44:05.809798 [info] : LogSys Open: 1
+2022-07-29 14:44:05.809800 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 14:44:05.809802 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 14:44:05.817740 [info] : Server port:9999
+2022-07-29 14:44:05.817779 [info] : ========== Server start ==========
+2022-07-29 14:45:06.678952 [info] : Client[12](192.168.33.1:202) in, userCount:1
+2022-07-29 14:45:06.679045 [info] : Client[12] in!
+2022-07-29 14:45:06.680659 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:45:06.680730 [debug]: /index.html
+2022-07-29 14:45:06.680818 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:45:06.680857 [debug]: filesize:829, 2  to 913
+2022-07-29 14:45:06.681111 [info] : Client[12] quit!
+2022-07-29 14:45:06.681224 [info] : Client[12](192.168.33.1:202) quit, UserCount:0
+2022-07-29 14:45:07.321744 [info] : Client[12](192.168.33.1:714) in, userCount:1
+2022-07-29 14:45:07.321847 [info] : Client[12] in!
+2022-07-29 14:45:07.324059 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:45:07.324126 [debug]: /favicon.ico
+2022-07-29 14:45:07.324169 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/favicon.ico
+2022-07-29 14:45:07.324908 [debug]: filesize:42200, 2  to 42287
+2022-07-29 14:45:07.325380 [info] : Client[12] quit!
+2022-07-29 14:45:07.325515 [info] : Client[12](192.168.33.1:714) quit, UserCount:0
+2022-07-29 14:45:08.565387 [info] : Client[12](192.168.33.1:2250) in, userCount:1
+2022-07-29 14:45:08.565485 [info] : Client[12] in!
+2022-07-29 14:45:08.567095 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:45:08.567126 [debug]: /login.html
+2022-07-29 14:45:08.567175 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:45:08.567610 [debug]: filesize:714, 2  to 798
+2022-07-29 14:45:08.567771 [info] : Client[12] quit!
+2022-07-29 14:45:08.567894 [info] : Client[12](192.168.33.1:2250) quit, UserCount:0
+2022-07-29 14:45:10.923733 [info] : Client[12](192.168.33.1:4554) in, userCount:1
+2022-07-29 14:45:10.923803 [info] : Client[12] in!
+2022-07-29 14:45:10.926742 [debug]: Tag:1
+2022-07-29 14:45:10.926884 [info] : Verify name:qianxunslimg pwd:123456
+2022-07-29 14:45:10.926915 [debug]: SELECT username, passwd FROM user WHERE username='qianxunslimg' LIMIT 1
+2022-07-29 14:45:10.948654 [debug]: MYSQL ROW: qianxunslimg 123456
+2022-07-29 14:45:10.948710 [debug]: [POST], [/welcome.html], [1.1]
+2022-07-29 14:45:10.948717 [debug]: /welcome.html
+2022-07-29 14:45:10.948759 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/welcome.html
+2022-07-29 14:45:10.949100 [debug]: filesize:715, 2  to 799
+2022-07-29 14:45:10.949270 [info] : Client[12] quit!
+2022-07-29 14:45:10.949377 [info] : Client[12](192.168.33.1:4554) quit, UserCount:0
+2022-07-29 14:45:13.085866 [info] : Client[12](192.168.33.1:6346) in, userCount:1
+2022-07-29 14:45:13.085925 [info] : Client[12] in!
+2022-07-29 14:45:13.087710 [debug]: [GET], [/MENU], [1.1]
+2022-07-29 14:45:13.087752 [debug]: /MENU
+2022-07-29 14:45:13.087843 [debug]: filesize:4096, 1  to 590
+2022-07-29 14:45:13.087996 [info] : Client[12] quit!
+2022-07-29 14:45:13.088075 [info] : Client[12](192.168.33.1:6346) quit, UserCount:0
+2022-07-29 14:45:15.208938 [info] : Client[12](192.168.33.1:7626) in, userCount:1
+2022-07-29 14:45:15.209004 [info] : Client[12] in!
+2022-07-29 14:45:15.210500 [debug]: [GET], [/image], [1.1]
+2022-07-29 14:45:15.210527 [debug]: /image
+2022-07-29 14:45:15.210588 [debug]: filesize:4096, 1  to 485
+2022-07-29 14:45:15.210769 [info] : Client[12] quit!
+2022-07-29 14:45:15.210837 [info] : Client[12](192.168.33.1:7626) quit, UserCount:0
+2022-07-29 14:45:16.617379 [info] : Client[12](192.168.33.1:8906) in, userCount:1
+2022-07-29 14:45:16.617436 [info] : Client[12] in!
+2022-07-29 14:45:16.620180 [debug]: [GET], [/周杰伦-一路向北.jpg], [1.1]
+2022-07-29 14:45:16.620207 [debug]: /周杰伦-一路向北.jpg
+2022-07-29 14:45:16.620239 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/image/周杰伦-一路向北.jpg
+2022-07-29 14:45:16.631870 [debug]: filesize:60541, 2  to 60628
+2022-07-29 14:45:16.632090 [info] : Client[12] quit!
+2022-07-29 14:45:16.632164 [info] : Client[12](192.168.33.1:8906) quit, UserCount:0
+2022-07-29 14:45:18.537264 [info] : Client[12](192.168.33.1:10954) in, userCount:1
+2022-07-29 14:45:18.537323 [info] : Client[12] in!
+2022-07-29 14:45:18.538793 [debug]: [GET], [/周杰伦.jpg], [1.1]
+2022-07-29 14:45:18.538829 [debug]: /周杰伦.jpg
+2022-07-29 14:45:18.538881 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/image/周杰伦.jpg
+2022-07-29 14:45:18.550952 [debug]: filesize:60541, 2  to 60628
+2022-07-29 14:45:18.551266 [info] : Client[12] quit!
+2022-07-29 14:45:18.551326 [info] : Client[12](192.168.33.1:10954) quit, UserCount:0
+2022-07-29 14:45:21.077872 [info] : Client[12](192.168.33.1:13514) in, userCount:1
+2022-07-29 14:45:21.077931 [info] : Client[12] in!
+2022-07-29 14:45:21.079977 [debug]: [GET], [/upload], [1.1]
+2022-07-29 14:45:21.080011 [debug]: /upload
+2022-07-29 14:45:21.080056 [debug]: filesize:4096, 1  to 385
+2022-07-29 14:45:21.080183 [info] : Client[12] quit!
+2022-07-29 14:45:21.080254 [info] : Client[12](192.168.33.1:13514) quit, UserCount:0
+2022-07-29 14:45:22.754232 [info] : Client[12](192.168.33.1:17098) in, userCount:1
+2022-07-29 14:45:22.754293 [info] : Client[12] in!
+2022-07-29 14:45:22.762195 [debug]: [GET], [/岳子冲.pdf], [1.1]
+2022-07-29 14:45:22.762238 [debug]: /岳子冲.pdf
+2022-07-29 14:45:22.762327 [debug]: filesize:0, 1  to 217
+2022-07-29 14:45:22.762508 [info] : Client[12] quit!
+2022-07-29 14:45:22.762574 [info] : Client[12](192.168.33.1:17098) quit, UserCount:0
+2022-07-29 14:45:22.764452 [info] : Client[12](192.168.33.1:17354) in, userCount:1
+2022-07-29 14:45:22.764489 [info] : Client[12] in!
+2022-07-29 14:45:22.766096 [debug]: [GET], [/岳子冲.pdf], [1.1]
+2022-07-29 14:45:22.766118 [debug]: /岳子冲.pdf
+2022-07-29 14:45:22.766141 [debug]: filesize:0, 1  to 217
+2022-07-29 14:45:22.766246 [info] : Client[12] quit!
+2022-07-29 14:45:22.766311 [info] : Client[12](192.168.33.1:17354) quit, UserCount:0
+2022-07-29 14:45:22.799836 [info] : Client[12](192.168.33.1:17610) in, userCount:1
+2022-07-29 14:45:22.799902 [info] : Client[12] in!
+2022-07-29 14:45:22.801446 [debug]: [GET], [/岳子冲.pdf], [1.1]
+2022-07-29 14:45:22.801476 [debug]: /岳子冲.pdf
+2022-07-29 14:45:22.801502 [debug]: filesize:0, 1  to 217
+2022-07-29 14:45:22.801659 [info] : Client[12] quit!
+2022-07-29 14:45:22.801715 [info] : Client[12](192.168.33.1:17610) quit, UserCount:0
+2022-07-29 14:45:24.522964 [info] : Client[12](192.168.33.1:19658) in, userCount:1
+2022-07-29 14:45:24.523030 [info] : Client[12] in!
+2022-07-29 14:45:24.524415 [debug]: [GET], [/uploadtest.txt], [1.1]
+2022-07-29 14:45:24.524438 [debug]: /uploadtest.txt
+2022-07-29 14:45:24.524468 [debug]: filesize:0, 1  to 217
+2022-07-29 14:45:24.524578 [info] : Client[12] quit!
+2022-07-29 14:45:24.524633 [info] : Client[12](192.168.33.1:19658) quit, UserCount:0
+2022-07-29 14:45:26.852974 [info] : Client[12](192.168.33.1:22474) in, userCount:1
+2022-07-29 14:45:26.853039 [info] : Client[12] in!
+2022-07-29 14:45:26.854541 [debug]: [GET], [/upload], [1.1]
+2022-07-29 14:45:26.854598 [debug]: /upload
+2022-07-29 14:45:26.854689 [debug]: filesize:4096, 1  to 385
+2022-07-29 14:45:26.854860 [info] : Client[12] quit!
+2022-07-29 14:45:26.854923 [info] : Client[12](192.168.33.1:22474) quit, UserCount:0
+2022-07-29 14:45:28.623775 [info] : Client[12](192.168.33.1:24522) in, userCount:1
+2022-07-29 14:45:28.623838 [info] : Client[12] in!
+2022-07-29 14:45:28.625353 [debug]: [GET], [/video], [1.1]
+2022-07-29 14:45:28.625377 [debug]: /video
+2022-07-29 14:45:28.625425 [debug]: filesize:4096, 1  to 422
+2022-07-29 14:45:28.625550 [info] : Client[12] quit!
+2022-07-29 14:45:28.625623 [info] : Client[12](192.168.33.1:24522) quit, UserCount:0
+2022-07-29 14:45:29.764159 [info] : Client[12](192.168.33.1:25802) in, userCount:1
+2022-07-29 14:45:29.764223 [info] : Client[12] in!
+2022-07-29 14:45:29.765938 [debug]: [GET], [/jaychou.mp4], [1.1]
+2022-07-29 14:45:29.765962 [debug]: /jaychou.mp4
+2022-07-29 14:45:29.765991 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/jaychou.mp4
+2022-07-29 14:45:29.777767 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 14:45:30.080081 [info] : Client[12] quit!
+2022-07-29 14:45:30.081091 [info] : Client[12](192.168.33.1:25802) quit, UserCount:0
+2022-07-29 14:45:31.335087 [info] : Client[12](192.168.33.1:27594) in, userCount:1
+2022-07-29 14:45:31.335148 [info] : Client[12] in!
+2022-07-29 14:45:31.336752 [debug]: [GET], [/jaychou.mp4], [1.1]
+2022-07-29 14:45:31.336774 [debug]: /jaychou.mp4
+2022-07-29 14:45:31.336806 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/jaychou.mp4
+2022-07-29 14:45:31.336825 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 14:45:31.555317 [info] : Client[12] quit!
+2022-07-29 14:45:31.557089 [info] : Client[12](192.168.33.1:27594) quit, UserCount:0
+2022-07-29 14:45:32.009238 [info] : Client[12](192.168.33.1:30410) in, userCount:1
+2022-07-29 14:45:32.009326 [info] : Client[12] in!
+2022-07-29 14:45:32.010824 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 14:45:32.010869 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 14:45:32.010906 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 14:45:32.012022 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 14:45:32.429608 [info] : Client[12] quit!
+2022-07-29 14:45:32.430490 [info] : Client[12](192.168.33.1:30410) quit, UserCount:0
+2022-07-29 14:45:37.366592 [info] : Client[12](192.168.33.1:36298) in, userCount:1
+2022-07-29 14:45:37.366677 [info] : Client[12] in!
+2022-07-29 14:45:37.368378 [debug]: [GET], [/test.html], [1.1]
+2022-07-29 14:45:37.368413 [debug]: /test.html
+2022-07-29 14:45:37.368439 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/test.html
+2022-07-29 14:45:37.381075 [debug]: filesize:706, 2  to 790
+2022-07-29 14:45:37.381250 [info] : Client[12] quit!
+2022-07-29 14:45:37.381347 [info] : Client[12](192.168.33.1:36298) quit, UserCount:0
+2022-07-29 14:45:38.225576 [info] : Client[12](192.168.33.1:37578) in, userCount:1
+2022-07-29 14:45:38.225638 [info] : Client[12] in!
+2022-07-29 14:45:38.227374 [debug]: [GET], [/testVideo.html], [1.1]
+2022-07-29 14:45:38.227411 [debug]: /testVideo.html
+2022-07-29 14:45:38.227444 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testVideo.html
+2022-07-29 14:45:38.238984 [debug]: filesize:393, 2  to 477
+2022-07-29 14:45:38.239155 [info] : Client[12] quit!
+2022-07-29 14:45:38.239280 [info] : Client[12](192.168.33.1:37578) quit, UserCount:0
+2022-07-29 14:45:38.303980 [info] : Client[12](192.168.33.1:37834) in, userCount:1
+2022-07-29 14:45:38.304054 [info] : Client[12] in!
+2022-07-29 14:45:38.306375 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 14:45:38.306433 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 14:45:38.306543 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 14:45:38.306591 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 14:45:49.922130 [info] : Client[12] quit!
+2022-07-29 14:45:49.922947 [info] : Client[12](192.168.33.1:37834) quit, UserCount:0
+2022-07-29 14:47:29.885705 [info] : Client[12](192.168.33.1:41163) in, userCount:1
+2022-07-29 14:47:29.885767 [info] : Client[12] in!
+2022-07-29 14:47:29.888736 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 14:47:29.888845 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 14:47:29.888903 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 14:47:29.888984 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 14:47:29.912008 [info] : Client[12] quit!
+2022-07-29 14:47:29.912222 [info] : Client[12](192.168.33.1:41163) quit, UserCount:0
+2022-07-29 14:47:30.276793 [info] : Client[12](192.168.33.1:41675) in, userCount:1
+2022-07-29 14:47:30.276857 [info] : Client[12] in!
+2022-07-29 14:47:30.278531 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 14:47:30.278545 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 14:47:30.278578 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 14:47:30.278609 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 14:47:41.011174 [info] : Client[12] quit!
+2022-07-29 14:47:41.011920 [info] : Client[12](192.168.33.1:41675) quit, UserCount:0
+2022-07-29 14:49:13.708094 [info] : Client[12](192.168.33.1:51147) in, userCount:1
+2022-07-29 14:49:13.708155 [info] : Client[12] in!
+2022-07-29 14:49:13.709772 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 14:49:13.709802 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 14:49:13.709850 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 14:49:13.709894 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 14:49:24.066635 [info] : Client[12] quit!
+2022-07-29 14:49:24.067617 [info] : Client[12](192.168.33.1:51147) quit, UserCount:0
+2022-07-29 14:49:27.060846 [info] : ========== Server init ==========
+2022-07-29 14:49:27.060853 [info] : Port:9999, OpenLinger: false
+2022-07-29 14:49:27.060855 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 14:49:27.060858 [info] : LogSys Open: 1
+2022-07-29 14:49:27.060859 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 14:49:27.060861 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 14:49:27.063927 [info] : Server port:9999
+2022-07-29 14:49:27.063956 [info] : ========== Server start ==========
+2022-07-29 14:49:29.536805 [info] : Client[12](192.168.33.1:52683) in, userCount:1
+2022-07-29 14:49:29.536866 [info] : Client[12] in!
+2022-07-29 14:49:29.538504 [debug]: [GET], [/testVideo.html], [1.1]
+2022-07-29 14:49:29.538539 [debug]: /testVideo.html
+2022-07-29 14:49:29.538602 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testVideo.html
+2022-07-29 14:49:29.538633 [debug]: filesize:393, 2  to 477
+2022-07-29 14:49:29.538841 [info] : Client[12] quit!
+2022-07-29 14:49:29.538925 [info] : Client[12](192.168.33.1:52683) quit, UserCount:0
+2022-07-29 14:49:29.627574 [info] : Client[12](192.168.33.1:53451) in, userCount:1
+2022-07-29 14:49:29.627645 [info] : Client[12] in!
+2022-07-29 14:49:29.629211 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 14:49:29.629263 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 14:49:29.629296 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 14:49:29.629352 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 14:49:29.958238 [info] : Client[13](192.168.33.1:53963) in, userCount:2
+2022-07-29 14:49:29.958301 [info] : Client[13] in!
+2022-07-29 14:49:29.959684 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:49:29.959715 [debug]: /favicon.ico
+2022-07-29 14:49:29.959774 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:49:29.959905 [info] : Client[13] quit!
+2022-07-29 14:49:29.959964 [info] : Client[13](192.168.33.1:53963) quit, UserCount:1
+2022-07-29 14:49:34.236847 [info] : Client[12] quit!
+2022-07-29 14:49:34.237388 [info] : Client[12](192.168.33.1:53451) quit, UserCount:0
+2022-07-29 14:49:38.850587 [info] : Client[12](192.168.33.1:56779) in, userCount:1
+2022-07-29 14:49:38.850677 [info] : Client[12] in!
+2022-07-29 14:49:38.851947 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:49:38.851976 [debug]: /index.html
+2022-07-29 14:49:38.852000 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:49:38.852014 [debug]: filesize:829, 2  to 913
+2022-07-29 14:49:38.852098 [info] : Client[12] quit!
+2022-07-29 14:49:38.852162 [info] : Client[12](192.168.33.1:56779) quit, UserCount:0
+2022-07-29 14:49:39.320116 [info] : Client[12](192.168.33.1:57035) in, userCount:1
+2022-07-29 14:49:39.320215 [info] : Client[12] in!
+2022-07-29 14:49:39.320571 [info] : Client[13] quit!
+2022-07-29 14:49:39.321863 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:49:39.321888 [debug]: /favicon.ico
+2022-07-29 14:49:39.321915 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:49:39.322007 [info] : Client[12] quit!
+2022-07-29 14:49:39.322072 [info] : Client[12](192.168.33.1:57035) quit, UserCount:0
+2022-07-29 14:49:42.113550 [info] : Client[12](192.168.33.1:59083) in, userCount:1
+2022-07-29 14:49:42.113624 [info] : Client[12] in!
+2022-07-29 14:49:42.115035 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:49:42.115066 [debug]: /register.html
+2022-07-29 14:49:42.115104 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:49:42.127210 [debug]: filesize:722, 2  to 806
+2022-07-29 14:49:42.127457 [info] : Client[12] quit!
+2022-07-29 14:49:42.127586 [info] : Client[12](192.168.33.1:59083) quit, UserCount:0
+2022-07-29 14:49:42.395742 [info] : Client[12](192.168.33.1:59339) in, userCount:1
+2022-07-29 14:49:42.395803 [info] : Client[12] in!
+2022-07-29 14:49:42.397290 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:49:42.397316 [debug]: /favicon.ico
+2022-07-29 14:49:42.397342 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:49:42.397419 [info] : Client[12] quit!
+2022-07-29 14:49:42.397487 [info] : Client[12](192.168.33.1:59339) quit, UserCount:0
+2022-07-29 14:49:44.048189 [info] : Client[12](192.168.33.1:60875) in, userCount:1
+2022-07-29 14:49:44.048397 [info] : Client[12] in!
+2022-07-29 14:49:44.051539 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:49:44.051581 [debug]: /favicon.ico
+2022-07-29 14:49:44.051614 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:49:44.051723 [info] : Client[12] quit!
+2022-07-29 14:49:44.051779 [info] : Client[12](192.168.33.1:60875) quit, UserCount:0
+2022-07-29 14:49:44.928698 [info] : Client[12](192.168.33.1:62411) in, userCount:1
+2022-07-29 14:49:44.928768 [info] : Client[12] in!
+2022-07-29 14:49:44.930288 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:49:44.930315 [debug]: /login.html
+2022-07-29 14:49:44.930338 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:49:44.930504 [debug]: filesize:714, 2  to 798
+2022-07-29 14:49:44.930606 [info] : Client[12] quit!
+2022-07-29 14:49:44.930720 [info] : Client[12](192.168.33.1:62411) quit, UserCount:0
+2022-07-29 14:49:45.189652 [info] : Client[12](192.168.33.1:62667) in, userCount:1
+2022-07-29 14:49:45.189717 [info] : Client[12] in!
+2022-07-29 14:49:45.191405 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:49:45.191438 [debug]: /favicon.ico
+2022-07-29 14:49:45.191505 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:49:45.191656 [info] : Client[12] quit!
+2022-07-29 14:49:45.191724 [info] : Client[12](192.168.33.1:62667) quit, UserCount:0
+2022-07-29 14:49:46.161076 [info] : Client[12](192.168.33.1:64203) in, userCount:1
+2022-07-29 14:49:46.161161 [info] : Client[12] in!
+2022-07-29 14:49:46.162425 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:49:46.162452 [debug]: /favicon.ico
+2022-07-29 14:49:46.162478 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:49:46.162549 [info] : Client[12] quit!
+2022-07-29 14:49:46.162609 [info] : Client[12](192.168.33.1:64203) quit, UserCount:0
+2022-07-29 14:49:56.171667 [info] : Client[12] quit!
+2022-07-29 14:50:17.434758 [info] : Client[12](192.168.33.1:1996) in, userCount:1
+2022-07-29 14:50:17.434829 [info] : Client[12] in!
+2022-07-29 14:50:17.436821 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:50:17.436857 [debug]: /index.html
+2022-07-29 14:50:17.436916 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:50:17.436999 [debug]: filesize:829, 2  to 913
+2022-07-29 14:50:17.437099 [info] : Client[12] quit!
+2022-07-29 14:50:17.437164 [info] : Client[12](192.168.33.1:1996) quit, UserCount:0
+2022-07-29 14:50:17.800159 [info] : Client[12](192.168.33.1:2508) in, userCount:1
+2022-07-29 14:50:17.800219 [info] : Client[12] in!
+2022-07-29 14:50:17.801988 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:50:17.802017 [debug]: /favicon.ico
+2022-07-29 14:50:17.802064 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:50:17.802162 [info] : Client[12] quit!
+2022-07-29 14:50:17.802215 [info] : Client[12](192.168.33.1:2508) quit, UserCount:0
+2022-07-29 14:50:18.332099 [info] : Client[12](192.168.33.1:4044) in, userCount:1
+2022-07-29 14:50:18.332164 [info] : Client[12] in!
+2022-07-29 14:50:18.333789 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:50:18.333818 [debug]: /index.html
+2022-07-29 14:50:18.333855 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:50:18.333873 [debug]: filesize:829, 2  to 913
+2022-07-29 14:50:18.334019 [info] : Client[12] quit!
+2022-07-29 14:50:18.334115 [info] : Client[12](192.168.33.1:4044) quit, UserCount:0
+2022-07-29 14:50:18.570000 [info] : Client[12](192.168.33.1:4300) in, userCount:1
+2022-07-29 14:50:18.570073 [info] : Client[12] in!
+2022-07-29 14:50:18.571256 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:50:18.571284 [debug]: /favicon.ico
+2022-07-29 14:50:18.571313 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:50:18.571483 [info] : Client[12] quit!
+2022-07-29 14:50:18.571607 [info] : Client[12](192.168.33.1:4300) quit, UserCount:0
+2022-07-29 14:50:23.017538 [info] : ========== Server init ==========
+2022-07-29 14:50:23.017559 [info] : Port:9999, OpenLinger: false
+2022-07-29 14:50:23.017563 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 14:50:23.017566 [info] : LogSys Open: 1
+2022-07-29 14:50:23.017659 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 14:50:23.017665 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 14:50:23.022214 [info] : Server port:9999
+2022-07-29 14:50:23.022261 [info] : ========== Server start ==========
+2022-07-29 14:50:29.882149 [info] : Client[12](192.168.33.1:6860) in, userCount:1
+2022-07-29 14:50:29.882222 [info] : Client[12] in!
+2022-07-29 14:50:29.883697 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:50:29.883733 [debug]: /index.html
+2022-07-29 14:50:29.883796 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:50:29.883837 [debug]: filesize:829, 2  to 913
+2022-07-29 14:50:29.883969 [info] : Client[12] quit!
+2022-07-29 14:50:29.884142 [info] : Client[12](192.168.33.1:6860) quit, UserCount:0
+2022-07-29 14:50:30.415825 [info] : Client[12](192.168.33.1:7372) in, userCount:1
+2022-07-29 14:50:30.415958 [info] : Client[12] in!
+2022-07-29 14:50:30.417231 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:50:30.417259 [debug]: /favicon.ico
+2022-07-29 14:50:30.417318 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:50:30.417411 [info] : Client[12] quit!
+2022-07-29 14:50:30.417484 [info] : Client[12](192.168.33.1:7372) quit, UserCount:0
+2022-07-29 14:50:33.521287 [info] : Client[12](192.168.33.1:8652) in, userCount:1
+2022-07-29 14:50:33.521354 [info] : Client[12] in!
+2022-07-29 14:50:33.523308 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:50:33.523375 [debug]: /index.html
+2022-07-29 14:50:33.523461 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:50:33.523507 [debug]: filesize:829, 2  to 913
+2022-07-29 14:50:33.523636 [info] : Client[12] quit!
+2022-07-29 14:50:33.523829 [info] : Client[12](192.168.33.1:8652) quit, UserCount:0
+2022-07-29 14:50:34.030021 [info] : Client[12](192.168.33.1:9164) in, userCount:1
+2022-07-29 14:50:34.030090 [info] : Client[12] in!
+2022-07-29 14:50:34.031349 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:50:34.031380 [debug]: /favicon.ico
+2022-07-29 14:50:34.031445 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:50:34.031609 [info] : Client[12] quit!
+2022-07-29 14:50:34.031716 [info] : Client[12](192.168.33.1:9164) quit, UserCount:0
+2022-07-29 14:50:35.284828 [info] : Client[12](192.168.33.1:10700) in, userCount:1
+2022-07-29 14:50:35.284944 [info] : Client[12] in!
+2022-07-29 14:50:35.286485 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:50:35.286519 [debug]: /login.html
+2022-07-29 14:50:35.286547 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:50:35.286578 [debug]: filesize:714, 2  to 798
+2022-07-29 14:50:35.286729 [info] : Client[12] quit!
+2022-07-29 14:50:35.286839 [info] : Client[12](192.168.33.1:10700) quit, UserCount:0
+2022-07-29 14:50:35.544953 [info] : Client[12](192.168.33.1:10956) in, userCount:1
+2022-07-29 14:50:35.545025 [info] : Client[12] in!
+2022-07-29 14:50:35.546379 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:50:35.546406 [debug]: /favicon.ico
+2022-07-29 14:50:35.546449 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:50:35.546535 [info] : Client[12] quit!
+2022-07-29 14:50:35.546608 [info] : Client[12](192.168.33.1:10956) quit, UserCount:0
+2022-07-29 14:50:37.995194 [info] : Client[12](192.168.33.1:12492) in, userCount:1
+2022-07-29 14:50:37.995266 [info] : Client[12] in!
+2022-07-29 14:50:37.996490 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:50:37.996516 [debug]: /favicon.ico
+2022-07-29 14:50:37.996547 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:50:37.996663 [info] : Client[12] quit!
+2022-07-29 14:50:37.996749 [info] : Client[12](192.168.33.1:12492) quit, UserCount:0
+2022-07-29 14:50:48.007522 [info] : Client[12] quit!
+2022-07-29 14:51:29.265779 [info] : Client[12](192.168.33.1:19660) in, userCount:1
+2022-07-29 14:51:29.265833 [info] : Client[12] in!
+2022-07-29 14:51:29.267423 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:29.267454 [debug]: /index.html
+2022-07-29 14:51:29.267489 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:29.267512 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:29.267642 [info] : Client[12] quit!
+2022-07-29 14:51:29.267748 [info] : Client[12](192.168.33.1:19660) quit, UserCount:0
+2022-07-29 14:51:29.629095 [info] : Client[12](192.168.33.1:20684) in, userCount:1
+2022-07-29 14:51:29.629158 [info] : Client[12] in!
+2022-07-29 14:51:29.630815 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:29.630872 [debug]: /favicon.ico
+2022-07-29 14:51:29.630956 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:29.631095 [info] : Client[12] quit!
+2022-07-29 14:51:29.631152 [info] : Client[12](192.168.33.1:20684) quit, UserCount:0
+2022-07-29 14:51:30.215675 [info] : Client[12](192.168.33.1:22220) in, userCount:1
+2022-07-29 14:51:30.215746 [info] : Client[12] in!
+2022-07-29 14:51:30.217798 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:30.217832 [debug]: /index.html
+2022-07-29 14:51:30.217884 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:30.217917 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:30.217999 [info] : Client[12] quit!
+2022-07-29 14:51:30.218100 [info] : Client[12](192.168.33.1:22220) quit, UserCount:0
+2022-07-29 14:51:30.436838 [info] : Client[12](192.168.33.1:22476) in, userCount:1
+2022-07-29 14:51:30.436912 [info] : Client[12] in!
+2022-07-29 14:51:30.438082 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:30.438108 [debug]: /favicon.ico
+2022-07-29 14:51:30.438135 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:30.438254 [info] : Client[12] quit!
+2022-07-29 14:51:30.438307 [info] : Client[12](192.168.33.1:22476) quit, UserCount:0
+2022-07-29 14:51:34.477765 [info] : Client[12](192.168.33.1:24780) in, userCount:1
+2022-07-29 14:51:34.477827 [info] : Client[12] in!
+2022-07-29 14:51:34.479657 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:34.479684 [debug]: /index.html
+2022-07-29 14:51:34.479708 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:34.479800 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:34.479932 [info] : Client[12] quit!
+2022-07-29 14:51:34.480004 [info] : Client[12](192.168.33.1:24780) quit, UserCount:0
+2022-07-29 14:51:34.711174 [info] : Client[12](192.168.33.1:25036) in, userCount:1
+2022-07-29 14:51:34.711234 [info] : Client[12] in!
+2022-07-29 14:51:34.712631 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:34.712655 [debug]: /favicon.ico
+2022-07-29 14:51:34.712697 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:34.712812 [info] : Client[12] quit!
+2022-07-29 14:51:34.712882 [info] : Client[12](192.168.33.1:25036) quit, UserCount:0
+2022-07-29 14:51:35.206129 [info] : Client[12](192.168.33.1:26572) in, userCount:1
+2022-07-29 14:51:35.206193 [info] : Client[12] in!
+2022-07-29 14:51:35.207663 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:35.207687 [debug]: /index.html
+2022-07-29 14:51:35.207710 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:35.207730 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:35.207823 [info] : Client[12] quit!
+2022-07-29 14:51:35.207931 [info] : Client[12](192.168.33.1:26572) quit, UserCount:0
+2022-07-29 14:51:35.432111 [info] : Client[12](192.168.33.1:26828) in, userCount:1
+2022-07-29 14:51:35.432304 [info] : Client[12] in!
+2022-07-29 14:51:35.433530 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:35.433556 [debug]: /favicon.ico
+2022-07-29 14:51:35.433581 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:35.433747 [info] : Client[12] quit!
+2022-07-29 14:51:35.433807 [info] : Client[12](192.168.33.1:26828) quit, UserCount:0
+2022-07-29 14:51:35.523410 [info] : Client[12](192.168.33.1:28364) in, userCount:1
+2022-07-29 14:51:35.523473 [info] : Client[12] in!
+2022-07-29 14:51:35.524907 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:35.524936 [debug]: /index.html
+2022-07-29 14:51:35.524965 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:35.524985 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:35.525113 [info] : Client[12] quit!
+2022-07-29 14:51:35.525222 [info] : Client[12](192.168.33.1:28364) quit, UserCount:0
+2022-07-29 14:51:35.789515 [info] : Client[12](192.168.33.1:28620) in, userCount:1
+2022-07-29 14:51:35.789574 [info] : Client[12] in!
+2022-07-29 14:51:35.790783 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:35.790841 [debug]: /favicon.ico
+2022-07-29 14:51:35.790919 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:35.791048 [info] : Client[12] quit!
+2022-07-29 14:51:35.791104 [info] : Client[12](192.168.33.1:28620) quit, UserCount:0
+2022-07-29 14:51:35.909130 [info] : Client[12](192.168.33.1:29900) in, userCount:1
+2022-07-29 14:51:35.909193 [info] : Client[12] in!
+2022-07-29 14:51:35.910558 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:35.910581 [debug]: /index.html
+2022-07-29 14:51:35.910621 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:35.910648 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:35.910754 [info] : Client[12] quit!
+2022-07-29 14:51:35.910850 [info] : Client[12](192.168.33.1:29900) quit, UserCount:0
+2022-07-29 14:51:36.174317 [info] : Client[12](192.168.33.1:30412) in, userCount:1
+2022-07-29 14:51:36.174413 [info] : Client[12] in!
+2022-07-29 14:51:36.175672 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:36.175701 [debug]: /favicon.ico
+2022-07-29 14:51:36.175727 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:36.175838 [info] : Client[12] quit!
+2022-07-29 14:51:36.175897 [info] : Client[12](192.168.33.1:30412) quit, UserCount:0
+2022-07-29 14:51:46.186218 [info] : Client[12] quit!
+2022-07-29 14:51:53.327523 [info] : Client[12](192.168.33.1:41420) in, userCount:1
+2022-07-29 14:51:53.327596 [info] : Client[12] in!
+2022-07-29 14:51:53.329148 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:53.329171 [debug]: /index.html
+2022-07-29 14:51:53.329202 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:53.329255 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:53.329365 [info] : Client[12] quit!
+2022-07-29 14:51:53.329460 [info] : Client[12](192.168.33.1:41420) quit, UserCount:0
+2022-07-29 14:51:53.808910 [info] : Client[12](192.168.33.1:41676) in, userCount:1
+2022-07-29 14:51:53.808973 [info] : Client[12] in!
+2022-07-29 14:51:53.810158 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:53.810185 [debug]: /favicon.ico
+2022-07-29 14:51:53.810229 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:53.810339 [info] : Client[12] quit!
+2022-07-29 14:51:53.810408 [info] : Client[12](192.168.33.1:41676) quit, UserCount:0
+2022-07-29 14:51:55.491200 [info] : Client[12](192.168.33.1:43212) in, userCount:1
+2022-07-29 14:51:55.491266 [info] : Client[12] in!
+2022-07-29 14:51:55.492929 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:55.492961 [debug]: /index.html
+2022-07-29 14:51:55.493005 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:55.493030 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:55.493149 [info] : Client[12] quit!
+2022-07-29 14:51:55.493218 [info] : Client[12](192.168.33.1:43212) quit, UserCount:0
+2022-07-29 14:51:55.777658 [info] : Client[12](192.168.33.1:43468) in, userCount:1
+2022-07-29 14:51:55.777727 [info] : Client[12] in!
+2022-07-29 14:51:55.778978 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:55.779004 [debug]: /favicon.ico
+2022-07-29 14:51:55.779038 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:55.779172 [info] : Client[12] quit!
+2022-07-29 14:51:55.779232 [info] : Client[12](192.168.33.1:43468) quit, UserCount:0
+2022-07-29 14:51:56.274427 [info] : Client[12](192.168.33.1:45004) in, userCount:1
+2022-07-29 14:51:56.274483 [info] : Client[12] in!
+2022-07-29 14:51:56.275904 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:56.275926 [debug]: /index.html
+2022-07-29 14:51:56.275950 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:56.275976 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:56.276080 [info] : Client[12] quit!
+2022-07-29 14:51:56.276188 [info] : Client[12](192.168.33.1:45004) quit, UserCount:0
+2022-07-29 14:51:56.535425 [info] : Client[12](192.168.33.1:45260) in, userCount:1
+2022-07-29 14:51:56.535492 [info] : Client[12] in!
+2022-07-29 14:51:56.536864 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:56.536896 [debug]: /favicon.ico
+2022-07-29 14:51:56.536943 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:56.537058 [info] : Client[12] quit!
+2022-07-29 14:51:56.537109 [info] : Client[12](192.168.33.1:45260) quit, UserCount:0
+2022-07-29 14:51:56.783498 [info] : Client[12](192.168.33.1:46796) in, userCount:1
+2022-07-29 14:51:56.783564 [info] : Client[12] in!
+2022-07-29 14:51:56.785033 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:56.785059 [debug]: /index.html
+2022-07-29 14:51:56.785102 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:56.785146 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:56.785230 [info] : Client[12] quit!
+2022-07-29 14:51:56.785286 [info] : Client[12](192.168.33.1:46796) quit, UserCount:0
+2022-07-29 14:51:57.014882 [info] : Client[12](192.168.33.1:47052) in, userCount:1
+2022-07-29 14:51:57.014976 [info] : Client[12] in!
+2022-07-29 14:51:57.016172 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:57.016197 [debug]: /favicon.ico
+2022-07-29 14:51:57.016224 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:57.016331 [info] : Client[12] quit!
+2022-07-29 14:51:57.016388 [info] : Client[12](192.168.33.1:47052) quit, UserCount:0
+2022-07-29 14:51:57.243744 [info] : Client[12](192.168.33.1:48588) in, userCount:1
+2022-07-29 14:51:57.243805 [info] : Client[12] in!
+2022-07-29 14:51:57.245485 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:57.245518 [debug]: /index.html
+2022-07-29 14:51:57.245559 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:57.245634 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:57.245751 [info] : Client[12] quit!
+2022-07-29 14:51:57.245882 [info] : Client[12](192.168.33.1:48588) quit, UserCount:0
+2022-07-29 14:51:57.451937 [info] : Client[12](192.168.33.1:48844) in, userCount:1
+2022-07-29 14:51:57.451999 [info] : Client[12] in!
+2022-07-29 14:51:57.453160 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:57.453185 [debug]: /favicon.ico
+2022-07-29 14:51:57.453231 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:57.453348 [info] : Client[12] quit!
+2022-07-29 14:51:57.453422 [info] : Client[12](192.168.33.1:48844) quit, UserCount:0
+2022-07-29 14:51:57.571413 [info] : Client[12](192.168.33.1:50380) in, userCount:1
+2022-07-29 14:51:57.571473 [info] : Client[12] in!
+2022-07-29 14:51:57.572872 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:51:57.572932 [debug]: /index.html
+2022-07-29 14:51:57.572955 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:51:57.572971 [debug]: filesize:829, 2  to 913
+2022-07-29 14:51:57.573093 [info] : Client[12] quit!
+2022-07-29 14:51:57.573195 [info] : Client[12](192.168.33.1:50380) quit, UserCount:0
+2022-07-29 14:51:57.825899 [info] : Client[12](192.168.33.1:50636) in, userCount:1
+2022-07-29 14:51:57.825975 [info] : Client[12] in!
+2022-07-29 14:51:57.827165 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:57.827234 [debug]: /favicon.ico
+2022-07-29 14:51:57.827368 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:57.827664 [info] : Client[12] quit!
+2022-07-29 14:51:57.827741 [info] : Client[12](192.168.33.1:50636) quit, UserCount:0
+2022-07-29 14:51:58.305811 [info] : Client[12](192.168.33.1:52172) in, userCount:1
+2022-07-29 14:51:58.305946 [info] : Client[12] in!
+2022-07-29 14:51:58.307757 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:51:58.307802 [debug]: /login.html
+2022-07-29 14:51:58.307901 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:51:58.307944 [debug]: filesize:714, 2  to 798
+2022-07-29 14:51:58.308060 [info] : Client[12] quit!
+2022-07-29 14:51:58.308159 [info] : Client[12](192.168.33.1:52172) quit, UserCount:0
+2022-07-29 14:51:58.566660 [info] : Client[12](192.168.33.1:52428) in, userCount:1
+2022-07-29 14:51:58.566824 [info] : Client[12] in!
+2022-07-29 14:51:58.569160 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:51:58.569194 [debug]: /favicon.ico
+2022-07-29 14:51:58.569244 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:51:58.569375 [info] : Client[12] quit!
+2022-07-29 14:51:58.569460 [info] : Client[12](192.168.33.1:52428) quit, UserCount:0
+2022-07-29 14:52:00.542664 [info] : Client[12](192.168.33.1:53964) in, userCount:1
+2022-07-29 14:52:00.542734 [info] : Client[12] in!
+2022-07-29 14:52:00.546083 [debug]: Tag:1
+2022-07-29 14:52:00.546110 [info] : Verify name:qianxunslimg pwd:123456
+2022-07-29 14:52:00.546117 [debug]: SELECT username, passwd FROM user WHERE username='qianxunslimg' LIMIT 1
+2022-07-29 14:52:00.558473 [debug]: MYSQL ROW: qianxunslimg 123456
+2022-07-29 14:52:00.558515 [debug]: [POST], [/welcome.html], [1.1]
+2022-07-29 14:52:00.558521 [debug]: /welcome.html
+2022-07-29 14:52:00.558773 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/welcome.html
+2022-07-29 14:52:00.559029 [debug]: filesize:715, 2  to 799
+2022-07-29 14:52:00.559189 [info] : Client[12] quit!
+2022-07-29 14:52:00.559302 [info] : Client[12](192.168.33.1:53964) quit, UserCount:0
+2022-07-29 14:52:00.805791 [info] : Client[12](192.168.33.1:54220) in, userCount:1
+2022-07-29 14:52:00.805849 [info] : Client[12] in!
+2022-07-29 14:52:00.807706 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:00.807736 [debug]: /favicon.ico
+2022-07-29 14:52:00.807786 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:00.807903 [info] : Client[12] quit!
+2022-07-29 14:52:00.807953 [info] : Client[12](192.168.33.1:54220) quit, UserCount:0
+2022-07-29 14:52:02.439641 [info] : Client[12](192.168.33.1:56012) in, userCount:1
+2022-07-29 14:52:02.439703 [info] : Client[12] in!
+2022-07-29 14:52:02.441163 [debug]: [GET], [/test.html], [1.1]
+2022-07-29 14:52:02.441186 [debug]: /test.html
+2022-07-29 14:52:02.441208 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/test.html
+2022-07-29 14:52:02.441243 [debug]: filesize:706, 2  to 790
+2022-07-29 14:52:02.441322 [info] : Client[12] quit!
+2022-07-29 14:52:02.441464 [info] : Client[12](192.168.33.1:56012) quit, UserCount:0
+2022-07-29 14:52:02.684322 [info] : Client[12](192.168.33.1:56524) in, userCount:1
+2022-07-29 14:52:02.684459 [info] : Client[12] in!
+2022-07-29 14:52:02.685880 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:02.685910 [debug]: /favicon.ico
+2022-07-29 14:52:02.685981 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:02.686113 [info] : Client[12] quit!
+2022-07-29 14:52:02.686164 [info] : Client[12](192.168.33.1:56524) quit, UserCount:0
+2022-07-29 14:52:03.288477 [info] : Client[12](192.168.33.1:58316) in, userCount:1
+2022-07-29 14:52:03.288541 [info] : Client[12] in!
+2022-07-29 14:52:03.290147 [debug]: [GET], [/testVideo.html], [1.1]
+2022-07-29 14:52:03.290182 [debug]: /testVideo.html
+2022-07-29 14:52:03.290252 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testVideo.html
+2022-07-29 14:52:03.290302 [debug]: filesize:393, 2  to 477
+2022-07-29 14:52:03.290443 [info] : Client[12] quit!
+2022-07-29 14:52:03.290552 [info] : Client[12](192.168.33.1:58316) quit, UserCount:0
+2022-07-29 14:52:03.341644 [info] : Client[12](192.168.33.1:58572) in, userCount:1
+2022-07-29 14:52:03.341726 [info] : Client[12] in!
+2022-07-29 14:52:03.343405 [debug]: [GET], [/周杰伦-一路向北-live.mp4], [1.1]
+2022-07-29 14:52:03.343464 [debug]: /周杰伦-一路向北-live.mp4
+2022-07-29 14:52:03.343500 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/video/周杰伦-一路向北-live.mp4
+2022-07-29 14:52:03.343520 [debug]: filesize:33793461, 2  to 33793551
+2022-07-29 14:52:03.574169 [info] : Client[13](192.168.33.1:59084) in, userCount:2
+2022-07-29 14:52:03.574238 [info] : Client[13] in!
+2022-07-29 14:52:03.576384 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:03.576474 [debug]: /favicon.ico
+2022-07-29 14:52:03.576573 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:03.576793 [info] : Client[13] quit!
+2022-07-29 14:52:03.576879 [info] : Client[13](192.168.33.1:59084) quit, UserCount:1
+2022-07-29 14:52:04.353983 [info] : Client[12] quit!
+2022-07-29 14:52:04.354341 [info] : Client[12](192.168.33.1:58572) quit, UserCount:0
+2022-07-29 14:52:04.577194 [info] : Client[12](192.168.33.1:60364) in, userCount:1
+2022-07-29 14:52:04.577252 [info] : Client[12] in!
+2022-07-29 14:52:04.578829 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:04.578866 [debug]: /favicon.ico
+2022-07-29 14:52:04.578910 [debug]: filesize:10639, 1  to 23657768
+2022-07-29 14:52:04.579017 [info] : Client[12] quit!
+2022-07-29 14:52:04.579078 [info] : Client[12](192.168.33.1:60364) quit, UserCount:0
+2022-07-29 14:52:05.029422 [info] : Client[12](192.168.33.1:61900) in, userCount:1
+2022-07-29 14:52:05.029483 [info] : Client[12] in!
+2022-07-29 14:52:05.031076 [debug]: [GET], [/testMusic.html], [1.1]
+2022-07-29 14:52:05.031113 [debug]: /testMusic.html
+2022-07-29 14:52:05.031138 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testMusic.html
+2022-07-29 14:52:05.031602 [debug]: filesize:523, 2  to 607
+2022-07-29 14:52:05.031750 [info] : Client[12] quit!
+2022-07-29 14:52:05.031871 [info] : Client[12](192.168.33.1:61900) quit, UserCount:0
+2022-07-29 14:52:05.079831 [info] : Client[12](192.168.33.1:62156) in, userCount:1
+2022-07-29 14:52:05.079895 [info] : Client[12] in!
+2022-07-29 14:52:05.081377 [debug]: [GET], [/周杰伦-一路向北.flac], [1.1]
+2022-07-29 14:52:05.081404 [debug]: /周杰伦-一路向北.flac
+2022-07-29 14:52:05.081436 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/music/周杰伦-一路向北.flac
+2022-07-29 14:52:05.081480 [debug]: filesize:63065214, 2  to 63065304
+2022-07-29 14:52:05.288427 [info] : Client[13](192.168.33.1:62668) in, userCount:2
+2022-07-29 14:52:05.288488 [info] : Client[13] in!
+2022-07-29 14:52:05.289822 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:05.289861 [debug]: /favicon.ico
+2022-07-29 14:52:05.289924 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:05.290042 [info] : Client[13] quit!
+2022-07-29 14:52:05.290101 [info] : Client[13](192.168.33.1:62668) quit, UserCount:1
+2022-07-29 14:52:07.133301 [info] : Client[12] quit!
+2022-07-29 14:52:07.134360 [info] : Client[12](192.168.33.1:62156) quit, UserCount:0
+2022-07-29 14:52:07.389813 [info] : Client[12](192.168.33.1:63948) in, userCount:1
+2022-07-29 14:52:07.389863 [info] : Client[12] in!
+2022-07-29 14:52:07.391140 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:07.391172 [debug]: /favicon.ico
+2022-07-29 14:52:07.391288 [debug]: filesize:10639, 1  to 50149361
+2022-07-29 14:52:07.391544 [info] : Client[12] quit!
+2022-07-29 14:52:07.391591 [info] : Client[12](192.168.33.1:63948) quit, UserCount:0
+2022-07-29 14:52:07.709526 [info] : Client[12](192.168.33.1:205) in, userCount:1
+2022-07-29 14:52:07.709630 [info] : Client[12] in!
+2022-07-29 14:52:07.711270 [debug]: [GET], [/testImage.html], [1.1]
+2022-07-29 14:52:07.711360 [debug]: /testImage.html
+2022-07-29 14:52:07.711402 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/testImage.html
+2022-07-29 14:52:07.718158 [debug]: filesize:329, 2  to 413
+2022-07-29 14:52:07.718317 [info] : Client[12] quit!
+2022-07-29 14:52:07.718403 [info] : Client[12](192.168.33.1:205) quit, UserCount:0
+2022-07-29 14:52:07.752407 [info] : Client[12](192.168.33.1:461) in, userCount:1
+2022-07-29 14:52:07.752465 [info] : Client[12] in!
+2022-07-29 14:52:07.753867 [debug]: [GET], [/周杰伦.jpg], [1.1]
+2022-07-29 14:52:07.753946 [debug]: /周杰伦.jpg
+2022-07-29 14:52:07.754037 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/image/周杰伦.jpg
+2022-07-29 14:52:07.754084 [debug]: filesize:60541, 2  to 60628
+2022-07-29 14:52:07.754249 [info] : Client[12] quit!
+2022-07-29 14:52:07.754327 [info] : Client[12](192.168.33.1:461) quit, UserCount:0
+2022-07-29 14:52:07.980740 [info] : Client[12](192.168.33.1:973) in, userCount:1
+2022-07-29 14:52:07.980813 [info] : Client[12] in!
+2022-07-29 14:52:07.982110 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:07.982148 [debug]: /favicon.ico
+2022-07-29 14:52:07.982229 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:07.982407 [info] : Client[12] quit!
+2022-07-29 14:52:07.982468 [info] : Client[12](192.168.33.1:973) quit, UserCount:0
+2022-07-29 14:52:09.785826 [info] : Client[12](192.168.33.1:2509) in, userCount:1
+2022-07-29 14:52:09.785916 [info] : Client[12] in!
+2022-07-29 14:52:09.787485 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:09.787518 [debug]: /favicon.ico
+2022-07-29 14:52:09.787579 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:09.787711 [info] : Client[12] quit!
+2022-07-29 14:52:09.787763 [info] : Client[12](192.168.33.1:2509) quit, UserCount:0
+2022-07-29 14:52:10.543864 [info] : Client[12](192.168.33.1:3789) in, userCount:1
+2022-07-29 14:52:10.543937 [info] : Client[12] in!
+2022-07-29 14:52:10.546136 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:10.546182 [debug]: /favicon.ico
+2022-07-29 14:52:10.546221 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:10.546385 [info] : Client[12] quit!
+2022-07-29 14:52:10.546460 [info] : Client[12](192.168.33.1:3789) quit, UserCount:0
+2022-07-29 14:52:11.160690 [info] : Client[12](192.168.33.1:5069) in, userCount:1
+2022-07-29 14:52:11.160758 [info] : Client[12] in!
+2022-07-29 14:52:11.163008 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:11.163049 [debug]: /favicon.ico
+2022-07-29 14:52:11.163102 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:11.163214 [info] : Client[12] quit!
+2022-07-29 14:52:11.163271 [info] : Client[12](192.168.33.1:5069) quit, UserCount:0
+2022-07-29 14:52:12.402814 [info] : Client[12](192.168.33.1:6349) in, userCount:1
+2022-07-29 14:52:12.402894 [info] : Client[12] in!
+2022-07-29 14:52:12.404336 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:12.404387 [debug]: /favicon.ico
+2022-07-29 14:52:12.404479 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:12.404673 [info] : Client[12] quit!
+2022-07-29 14:52:12.404771 [info] : Client[12](192.168.33.1:6349) quit, UserCount:0
+2022-07-29 14:52:12.893593 [info] : Client[12](192.168.33.1:7629) in, userCount:1
+2022-07-29 14:52:12.893674 [info] : Client[12] in!
+2022-07-29 14:52:12.895149 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:52:12.895196 [debug]: /register.html
+2022-07-29 14:52:12.895270 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:52:12.895321 [debug]: filesize:722, 2  to 806
+2022-07-29 14:52:12.895453 [info] : Client[12] quit!
+2022-07-29 14:52:12.895559 [info] : Client[12](192.168.33.1:7629) quit, UserCount:0
+2022-07-29 14:52:13.146485 [info] : Client[12](192.168.33.1:7885) in, userCount:1
+2022-07-29 14:52:13.146549 [info] : Client[12] in!
+2022-07-29 14:52:13.148001 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:13.148054 [debug]: /favicon.ico
+2022-07-29 14:52:13.148115 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:13.148274 [info] : Client[12] quit!
+2022-07-29 14:52:13.148345 [info] : Client[12](192.168.33.1:7885) quit, UserCount:0
+2022-07-29 14:52:14.030238 [info] : Client[12](192.168.33.1:9933) in, userCount:1
+2022-07-29 14:52:14.030316 [info] : Client[12] in!
+2022-07-29 14:52:14.031498 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:52:14.031528 [debug]: /favicon.ico
+2022-07-29 14:52:14.031565 [debug]: filesize:10639, 1  to 217
+2022-07-29 14:52:14.031654 [info] : Client[12] quit!
+2022-07-29 14:52:14.031700 [info] : Client[12](192.168.33.1:9933) quit, UserCount:0
+2022-07-29 14:52:15.032879 [info] : Client[13] quit!
+2022-07-29 14:52:24.042877 [info] : Client[12] quit!
+2022-07-29 14:54:28.642826 [info] : ========== Server init ==========
+2022-07-29 14:54:28.642847 [info] : Port:9999, OpenLinger: false
+2022-07-29 14:54:28.642852 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 14:54:28.642854 [info] : LogSys Open: 1
+2022-07-29 14:54:28.642856 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 14:54:28.642858 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 14:54:28.644825 [info] : Server port:9999
+2022-07-29 14:54:28.644850 [info] : ========== Server start ==========
+2022-07-29 14:54:30.477426 [info] : Client[12](192.168.33.1:22733) in, userCount:1
+2022-07-29 14:54:30.477503 [info] : Client[12] in!
+2022-07-29 14:54:30.479070 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 14:54:30.479097 [debug]: /index.html
+2022-07-29 14:54:30.479122 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 14:54:30.479135 [debug]: filesize:829, 2  to 913
+2022-07-29 14:54:30.479217 [info] : Client[12] quit!
+2022-07-29 14:54:30.479303 [info] : Client[12](192.168.33.1:22733) quit, UserCount:0
+2022-07-29 14:54:30.874153 [info] : Client[12](192.168.33.1:23757) in, userCount:1
+2022-07-29 14:54:30.874262 [info] : Client[12] in!
+2022-07-29 14:54:30.876081 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:54:30.876118 [debug]: /favicon.ico
+2022-07-29 14:54:30.876187 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/favicon.ico
+2022-07-29 14:54:30.876229 [debug]: filesize:68318, 2  to 68405
+2022-07-29 14:54:30.876442 [info] : Client[12] quit!
+2022-07-29 14:54:30.876527 [info] : Client[12](192.168.33.1:23757) quit, UserCount:0
+2022-07-29 14:54:32.578822 [info] : Client[12](192.168.33.1:25549) in, userCount:1
+2022-07-29 14:54:32.578910 [info] : Client[12] in!
+2022-07-29 14:54:32.580575 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:54:32.580615 [debug]: /register.html
+2022-07-29 14:54:32.580671 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:54:32.580738 [debug]: filesize:722, 2  to 806
+2022-07-29 14:54:32.580960 [info] : Client[12] quit!
+2022-07-29 14:54:32.581080 [info] : Client[12](192.168.33.1:25549) quit, UserCount:0
+2022-07-29 14:54:34.526578 [info] : Client[12](192.168.33.1:27853) in, userCount:1
+2022-07-29 14:54:34.526640 [info] : Client[12] in!
+2022-07-29 14:54:34.528840 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:54:34.528890 [debug]: /login.html
+2022-07-29 14:54:34.528988 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:54:34.529048 [debug]: filesize:714, 2  to 798
+2022-07-29 14:54:34.529234 [info] : Client[12] quit!
+2022-07-29 14:54:34.529449 [info] : Client[12](192.168.33.1:27853) quit, UserCount:0
+2022-07-29 14:54:36.079724 [info] : Client[12](192.168.33.1:30157) in, userCount:1
+2022-07-29 14:54:36.079784 [info] : Client[12] in!
+2022-07-29 14:54:36.081051 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:54:36.081076 [debug]: /login.html
+2022-07-29 14:54:36.081104 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:54:36.081119 [debug]: filesize:714, 2  to 798
+2022-07-29 14:54:36.081237 [info] : Client[12] quit!
+2022-07-29 14:54:36.081302 [info] : Client[12](192.168.33.1:30157) quit, UserCount:0
+2022-07-29 14:54:37.169288 [info] : Client[12](192.168.33.1:32205) in, userCount:1
+2022-07-29 14:54:37.169399 [info] : Client[12] in!
+2022-07-29 14:54:37.170935 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:54:37.171007 [debug]: /register.html
+2022-07-29 14:54:37.171043 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:54:37.171066 [debug]: filesize:722, 2  to 806
+2022-07-29 14:54:37.171208 [info] : Client[12] quit!
+2022-07-29 14:54:37.171281 [info] : Client[12](192.168.33.1:32205) quit, UserCount:0
+2022-07-29 14:54:38.445148 [info] : Client[12](192.168.33.1:34253) in, userCount:1
+2022-07-29 14:54:38.445244 [info] : Client[12] in!
+2022-07-29 14:54:38.446826 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:54:38.446857 [debug]: /login.html
+2022-07-29 14:54:38.446906 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:54:38.446937 [debug]: filesize:714, 2  to 798
+2022-07-29 14:54:38.447129 [info] : Client[12] quit!
+2022-07-29 14:54:38.447230 [info] : Client[12](192.168.33.1:34253) quit, UserCount:0
+2022-07-29 14:54:39.569656 [info] : Client[12](192.168.33.1:36813) in, userCount:1
+2022-07-29 14:54:39.569726 [info] : Client[12] in!
+2022-07-29 14:54:39.571094 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:54:39.571137 [debug]: /register.html
+2022-07-29 14:54:39.571196 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:54:39.571227 [debug]: filesize:722, 2  to 806
+2022-07-29 14:54:39.571404 [info] : Client[12] quit!
+2022-07-29 14:54:39.571540 [info] : Client[12](192.168.33.1:36813) quit, UserCount:0
+2022-07-29 14:54:41.784340 [info] : Client[12](192.168.33.1:38861) in, userCount:1
+2022-07-29 14:54:41.784431 [info] : Client[12] in!
+2022-07-29 14:54:41.785925 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:54:41.785958 [debug]: /register.html
+2022-07-29 14:54:41.785983 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:54:41.785998 [debug]: filesize:722, 2  to 806
+2022-07-29 14:54:41.786216 [info] : Client[12] quit!
+2022-07-29 14:54:41.786294 [info] : Client[12](192.168.33.1:38861) quit, UserCount:0
+2022-07-29 14:54:51.796182 [info] : Client[12] quit!
+2022-07-29 14:55:48.850401 [info] : Client[12](192.168.33.1:54733) in, userCount:1
+2022-07-29 14:55:48.850864 [info] : Client[12] in!
+2022-07-29 14:55:48.853522 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:55:48.853559 [debug]: /register.html
+2022-07-29 14:55:48.853604 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:55:48.853960 [debug]: filesize:722, 2  to 806
+2022-07-29 14:55:48.854145 [info] : Client[12] quit!
+2022-07-29 14:55:48.854215 [info] : Client[12](192.168.33.1:54733) quit, UserCount:0
+2022-07-29 14:55:58.863344 [info] : Client[12] quit!
+2022-07-29 14:56:43.940332 [info] : Client[12](192.168.33.1:64205) in, userCount:1
+2022-07-29 14:56:43.940404 [info] : Client[12] in!
+2022-07-29 14:56:43.942600 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:56:43.942632 [debug]: /register.html
+2022-07-29 14:56:43.942703 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:56:43.942738 [debug]: filesize:722, 2  to 806
+2022-07-29 14:56:43.942894 [info] : Client[12] quit!
+2022-07-29 14:56:43.942956 [info] : Client[12](192.168.33.1:64205) quit, UserCount:0
+2022-07-29 14:56:53.944554 [info] : Client[12] quit!
+2022-07-29 14:59:10.549733 [info] : Client[12](192.168.33.1:27377) in, userCount:1
+2022-07-29 14:59:10.550070 [info] : Client[12] in!
+2022-07-29 14:59:10.551435 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:59:10.551469 [debug]: /register.html
+2022-07-29 14:59:10.551507 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:59:10.551536 [debug]: filesize:722, 2  to 806
+2022-07-29 14:59:10.551705 [info] : Client[12] quit!
+2022-07-29 14:59:10.551804 [info] : Client[12](192.168.33.1:27377) quit, UserCount:0
+2022-07-29 14:59:12.559216 [info] : Client[12](192.168.33.1:29425) in, userCount:1
+2022-07-29 14:59:12.559356 [info] : Client[12] in!
+2022-07-29 14:59:12.560802 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:59:12.560832 [debug]: /login.html
+2022-07-29 14:59:12.560869 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:59:12.560888 [debug]: filesize:728, 2  to 812
+2022-07-29 14:59:12.561000 [info] : Client[12] quit!
+2022-07-29 14:59:12.561103 [info] : Client[12](192.168.33.1:29425) quit, UserCount:0
+2022-07-29 14:59:15.942814 [info] : Client[12](192.168.33.1:31473) in, userCount:1
+2022-07-29 14:59:15.942868 [info] : Client[12] in!
+2022-07-29 14:59:15.944370 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 14:59:15.944417 [debug]: /register.html
+2022-07-29 14:59:15.944502 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 14:59:15.944532 [debug]: filesize:722, 2  to 806
+2022-07-29 14:59:15.944665 [info] : Client[12] quit!
+2022-07-29 14:59:15.944764 [info] : Client[12](192.168.33.1:31473) quit, UserCount:0
+2022-07-29 14:59:17.456787 [info] : Client[12](192.168.33.1:33521) in, userCount:1
+2022-07-29 14:59:17.456887 [info] : Client[12] in!
+2022-07-29 14:59:17.458285 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:59:17.458314 [debug]: /login.html
+2022-07-29 14:59:17.458339 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:59:17.458357 [debug]: filesize:728, 2  to 812
+2022-07-29 14:59:17.458615 [info] : Client[12] quit!
+2022-07-29 14:59:17.458727 [info] : Client[12](192.168.33.1:33521) quit, UserCount:0
+2022-07-29 14:59:27.460222 [info] : Client[12] quit!
+2022-07-29 14:59:55.426525 [info] : ========== Server init ==========
+2022-07-29 14:59:55.426532 [info] : Port:9999, OpenLinger: false
+2022-07-29 14:59:55.426535 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 14:59:55.426537 [info] : LogSys Open: 1
+2022-07-29 14:59:55.426539 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 14:59:55.426541 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 14:59:55.437772 [info] : Server port:9999
+2022-07-29 14:59:55.437800 [info] : ========== Server start ==========
+2022-07-29 14:59:57.613704 [info] : Client[12](192.168.33.1:40945) in, userCount:1
+2022-07-29 14:59:57.613759 [info] : Client[12] in!
+2022-07-29 14:59:57.615608 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 14:59:57.615650 [debug]: /login.html
+2022-07-29 14:59:57.615712 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 14:59:57.615750 [debug]: filesize:728, 2  to 812
+2022-07-29 14:59:57.615874 [info] : Client[12] quit!
+2022-07-29 14:59:57.616020 [info] : Client[12](192.168.33.1:40945) quit, UserCount:0
+2022-07-29 14:59:57.973111 [info] : Client[12](192.168.33.1:41201) in, userCount:1
+2022-07-29 14:59:57.973180 [info] : Client[12] in!
+2022-07-29 14:59:57.974621 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 14:59:57.974679 [debug]: /favicon.ico
+2022-07-29 14:59:57.974723 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/favicon.ico
+2022-07-29 14:59:57.986080 [debug]: filesize:68318, 2  to 68405
+2022-07-29 14:59:57.986320 [info] : Client[12] quit!
+2022-07-29 14:59:57.986412 [info] : Client[12](192.168.33.1:41201) quit, UserCount:0
+2022-07-29 15:00:00.071205 [info] : Client[12](192.168.33.1:43505) in, userCount:1
+2022-07-29 15:00:00.071263 [info] : Client[12] in!
+2022-07-29 15:00:00.072788 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:00:00.072822 [debug]: /register.html
+2022-07-29 15:00:00.072847 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:00:00.072859 [debug]: filesize:734, 2  to 818
+2022-07-29 15:00:00.072954 [info] : Client[12] quit!
+2022-07-29 15:00:00.073114 [info] : Client[12](192.168.33.1:43505) quit, UserCount:0
+2022-07-29 15:00:02.940219 [info] : Client[12](192.168.33.1:46065) in, userCount:1
+2022-07-29 15:00:02.940296 [info] : Client[12] in!
+2022-07-29 15:00:02.941750 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:00:02.941803 [debug]: /login.html
+2022-07-29 15:00:02.941890 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:00:02.941925 [debug]: filesize:728, 2  to 812
+2022-07-29 15:00:02.942089 [info] : Client[12] quit!
+2022-07-29 15:00:02.942224 [info] : Client[12](192.168.33.1:46065) quit, UserCount:0
+2022-07-29 15:00:12.950826 [info] : Client[12] quit!
+2022-07-29 15:02:15.850272 [info] : Client[12](192.168.33.1:58353) in, userCount:1
+2022-07-29 15:02:15.850372 [info] : Client[12] in!
+2022-07-29 15:02:15.852168 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:02:15.852221 [debug]: /login.html
+2022-07-29 15:02:15.852318 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:02:15.852356 [debug]: filesize:732, 2  to 816
+2022-07-29 15:02:15.852500 [info] : Client[12] quit!
+2022-07-29 15:02:15.852735 [info] : Client[12](192.168.33.1:58353) quit, UserCount:0
+2022-07-29 15:02:17.904044 [info] : Client[12](192.168.33.1:59633) in, userCount:1
+2022-07-29 15:02:17.904114 [info] : Client[12] in!
+2022-07-29 15:02:17.906116 [debug]: Tag:1
+2022-07-29 15:02:17.906168 [info] : Verify name:qianxunslimg pwd:123456
+2022-07-29 15:02:17.906176 [debug]: SELECT username, passwd FROM user WHERE username='qianxunslimg' LIMIT 1
+2022-07-29 15:02:17.930492 [debug]: MYSQL ROW: qianxunslimg 123456
+2022-07-29 15:02:17.930547 [debug]: [POST], [/welcome.html], [1.1]
+2022-07-29 15:02:17.930563 [debug]: /welcome.html
+2022-07-29 15:02:17.930635 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/welcome.html
+2022-07-29 15:02:17.930683 [debug]: filesize:715, 2  to 799
+2022-07-29 15:02:17.930792 [info] : Client[12] quit!
+2022-07-29 15:02:17.930897 [info] : Client[12](192.168.33.1:59633) quit, UserCount:0
+2022-07-29 15:02:27.941452 [info] : Client[12] quit!
+2022-07-29 15:03:45.361380 [info] : ========== Server init ==========
+2022-07-29 15:03:45.361387 [info] : Port:9999, OpenLinger: false
+2022-07-29 15:03:45.361389 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 15:03:45.361391 [info] : LogSys Open: 1
+2022-07-29 15:03:45.361393 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 15:03:45.361395 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 15:03:45.377032 [info] : Server port:9999
+2022-07-29 15:03:45.377059 [info] : ========== Server start ==========
+2022-07-29 15:03:48.706523 [info] : Client[12](192.168.33.1:4082) in, userCount:1
+2022-07-29 15:03:48.706583 [info] : Client[12] in!
+2022-07-29 15:03:48.709188 [debug]: Tag:1
+2022-07-29 15:03:48.709294 [info] : Verify name:qianxunslimg pwd:123456
+2022-07-29 15:03:48.709307 [debug]: SELECT username, passwd FROM user WHERE username='qianxunslimg' LIMIT 1
+2022-07-29 15:03:48.723415 [debug]: MYSQL ROW: qianxunslimg 123456
+2022-07-29 15:03:48.723466 [debug]: [POST], [/welcome.html], [1.1]
+2022-07-29 15:03:48.723472 [debug]: /welcome.html
+2022-07-29 15:03:48.723516 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/welcome.html
+2022-07-29 15:03:48.723564 [debug]: filesize:715, 2  to 799
+2022-07-29 15:03:48.723710 [info] : Client[12] quit!
+2022-07-29 15:03:48.723796 [info] : Client[12](192.168.33.1:4082) quit, UserCount:0
+2022-07-29 15:03:49.087530 [info] : Client[12](192.168.33.1:4594) in, userCount:1
+2022-07-29 15:03:49.087586 [info] : Client[12] in!
+2022-07-29 15:03:49.089212 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 15:03:49.089242 [debug]: /favicon.ico
+2022-07-29 15:03:49.089270 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/favicon.ico
+2022-07-29 15:03:49.089306 [debug]: filesize:68318, 2  to 68405
+2022-07-29 15:03:49.089584 [info] : Client[12] quit!
+2022-07-29 15:03:49.089673 [info] : Client[12](192.168.33.1:4594) quit, UserCount:0
+2022-07-29 15:03:51.547486 [info] : Client[12](192.168.33.1:7666) in, userCount:1
+2022-07-29 15:03:51.547597 [info] : Client[12] in!
+2022-07-29 15:03:51.549325 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:03:51.549356 [debug]: /register.html
+2022-07-29 15:03:51.549407 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:03:51.549447 [debug]: filesize:734, 2  to 818
+2022-07-29 15:03:51.549587 [info] : Client[12] quit!
+2022-07-29 15:03:51.549670 [info] : Client[12](192.168.33.1:7666) quit, UserCount:0
+2022-07-29 15:03:52.880871 [info] : Client[12](192.168.33.1:9714) in, userCount:1
+2022-07-29 15:03:52.880932 [info] : Client[12] in!
+2022-07-29 15:03:52.882404 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:03:52.882431 [debug]: /login.html
+2022-07-29 15:03:52.882480 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:03:52.882505 [debug]: filesize:732, 2  to 816
+2022-07-29 15:03:52.882630 [info] : Client[12] quit!
+2022-07-29 15:03:52.882802 [info] : Client[12](192.168.33.1:9714) quit, UserCount:0
+2022-07-29 15:03:54.623113 [info] : Client[12](192.168.33.1:12786) in, userCount:1
+2022-07-29 15:03:54.623178 [info] : Client[12] in!
+2022-07-29 15:03:54.624496 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:03:54.624521 [debug]: /register.html
+2022-07-29 15:03:54.624557 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:03:54.624593 [debug]: filesize:734, 2  to 818
+2022-07-29 15:03:54.624743 [info] : Client[12] quit!
+2022-07-29 15:03:54.624830 [info] : Client[12](192.168.33.1:12786) quit, UserCount:0
+2022-07-29 15:03:58.013958 [info] : Client[12](192.168.33.1:15346) in, userCount:1
+2022-07-29 15:03:58.014021 [info] : Client[12] in!
+2022-07-29 15:03:58.016316 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 15:03:58.016345 [debug]: /index.html
+2022-07-29 15:03:58.016371 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 15:03:58.016391 [debug]: filesize:829, 2  to 913
+2022-07-29 15:03:58.016519 [info] : Client[12] quit!
+2022-07-29 15:03:58.016583 [info] : Client[12](192.168.33.1:15346) quit, UserCount:0
+2022-07-29 15:03:58.276358 [info] : Client[12](192.168.33.1:15602) in, userCount:1
+2022-07-29 15:03:58.276456 [info] : Client[12] in!
+2022-07-29 15:03:58.278143 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 15:03:58.278177 [debug]: /favicon.ico
+2022-07-29 15:03:58.278203 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/favicon.ico
+2022-07-29 15:03:58.278276 [debug]: filesize:68318, 2  to 68405
+2022-07-29 15:03:58.278551 [info] : Client[12] quit!
+2022-07-29 15:03:58.278613 [info] : Client[12](192.168.33.1:15602) quit, UserCount:0
+2022-07-29 15:04:08.288648 [info] : Client[12] quit!
+2022-07-29 15:04:11.576319 [info] : Client[12](192.168.33.1:20466) in, userCount:1
+2022-07-29 15:04:11.576380 [info] : Client[12] in!
+2022-07-29 15:04:11.577813 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:04:11.577834 [debug]: /login.html
+2022-07-29 15:04:11.577859 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:04:11.577877 [debug]: filesize:732, 2  to 816
+2022-07-29 15:04:11.577992 [info] : Client[12] quit!
+2022-07-29 15:04:11.578086 [info] : Client[12](192.168.33.1:20466) quit, UserCount:0
+2022-07-29 15:04:21.580667 [info] : Client[12] quit!
+2022-07-29 15:04:27.425355 [info] : Client[12](192.168.33.1:23026) in, userCount:1
+2022-07-29 15:04:27.425410 [info] : Client[12] in!
+2022-07-29 15:04:27.426964 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:04:27.427032 [debug]: /login.html
+2022-07-29 15:04:27.427128 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:04:27.427186 [debug]: filesize:732, 2  to 816
+2022-07-29 15:04:27.427353 [info] : Client[12] quit!
+2022-07-29 15:04:27.427429 [info] : Client[12](192.168.33.1:23026) quit, UserCount:0
+2022-07-29 15:04:27.800007 [info] : Client[12](192.168.33.1:23538) in, userCount:1
+2022-07-29 15:04:27.800074 [info] : Client[12] in!
+2022-07-29 15:04:27.801640 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 15:04:27.801671 [debug]: /favicon.ico
+2022-07-29 15:04:27.801699 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/favicon.ico
+2022-07-29 15:04:27.801728 [debug]: filesize:68318, 2  to 68405
+2022-07-29 15:04:27.802008 [info] : Client[12] quit!
+2022-07-29 15:04:27.802062 [info] : Client[12](192.168.33.1:23538) quit, UserCount:0
+2022-07-29 15:04:31.841426 [info] : Client[12](192.168.33.1:25074) in, userCount:1
+2022-07-29 15:04:31.841513 [info] : Client[12] in!
+2022-07-29 15:04:31.843700 [debug]: Tag:1
+2022-07-29 15:04:31.843726 [info] : Verify name:qianxunslimg pwd:123456
+2022-07-29 15:04:31.843732 [debug]: SELECT username, passwd FROM user WHERE username='qianxunslimg' LIMIT 1
+2022-07-29 15:04:31.857955 [debug]: MYSQL ROW: qianxunslimg 123456
+2022-07-29 15:04:31.858001 [debug]: [POST], [/welcome.html], [1.1]
+2022-07-29 15:04:31.858006 [debug]: /welcome.html
+2022-07-29 15:04:31.858115 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/welcome.html
+2022-07-29 15:04:31.858157 [debug]: filesize:715, 2  to 799
+2022-07-29 15:04:31.858332 [info] : Client[12] quit!
+2022-07-29 15:04:31.858437 [info] : Client[12](192.168.33.1:25074) quit, UserCount:0
+2022-07-29 15:04:32.918370 [info] : Client[12](192.168.33.1:27122) in, userCount:1
+2022-07-29 15:04:32.918428 [info] : Client[12] in!
+2022-07-29 15:04:32.920063 [debug]: [GET], [/test.html], [1.1]
+2022-07-29 15:04:32.920086 [debug]: /test.html
+2022-07-29 15:04:32.920109 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/test.html
+2022-07-29 15:04:32.920132 [debug]: filesize:706, 2  to 790
+2022-07-29 15:04:32.920249 [info] : Client[12] quit!
+2022-07-29 15:04:32.920302 [info] : Client[12](192.168.33.1:27122) quit, UserCount:0
+2022-07-29 15:04:37.127128 [info] : Client[12](192.168.33.1:32242) in, userCount:1
+2022-07-29 15:04:37.127192 [info] : Client[12] in!
+2022-07-29 15:04:37.128602 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:04:37.128630 [debug]: /register.html
+2022-07-29 15:04:37.128678 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:04:37.128708 [debug]: filesize:734, 2  to 818
+2022-07-29 15:04:37.128856 [info] : Client[12] quit!
+2022-07-29 15:04:37.128950 [info] : Client[12](192.168.33.1:32242) quit, UserCount:0
+2022-07-29 15:04:39.926854 [info] : Client[12](192.168.33.1:34290) in, userCount:1
+2022-07-29 15:04:39.926942 [info] : Client[12] in!
+2022-07-29 15:04:39.928601 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 15:04:39.928636 [debug]: /index.html
+2022-07-29 15:04:39.928690 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 15:04:39.928724 [debug]: filesize:829, 2  to 913
+2022-07-29 15:04:39.928925 [info] : Client[12] quit!
+2022-07-29 15:04:39.928998 [info] : Client[12](192.168.33.1:34290) quit, UserCount:0
+2022-07-29 15:04:40.189129 [info] : Client[12](192.168.33.1:34546) in, userCount:1
+2022-07-29 15:04:40.189187 [info] : Client[12] in!
+2022-07-29 15:04:40.190339 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 15:04:40.190381 [debug]: /favicon.ico
+2022-07-29 15:04:40.190481 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/favicon.ico
+2022-07-29 15:04:40.190520 [debug]: filesize:68318, 2  to 68405
+2022-07-29 15:04:40.190885 [info] : Client[12] quit!
+2022-07-29 15:04:40.190963 [info] : Client[12](192.168.33.1:34546) quit, UserCount:0
+2022-07-29 15:04:42.837253 [info] : Client[12](192.168.33.1:36594) in, userCount:1
+2022-07-29 15:04:42.837316 [info] : Client[12] in!
+2022-07-29 15:04:42.839726 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 15:04:42.839754 [debug]: /index.html
+2022-07-29 15:04:42.839846 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 15:04:42.839873 [debug]: filesize:829, 2  to 913
+2022-07-29 15:04:42.839999 [info] : Client[12] quit!
+2022-07-29 15:04:42.840090 [info] : Client[12](192.168.33.1:36594) quit, UserCount:0
+2022-07-29 15:04:44.198107 [info] : Client[12](192.168.33.1:37874) in, userCount:1
+2022-07-29 15:04:44.198268 [info] : Client[12] in!
+2022-07-29 15:04:44.199878 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:04:44.199904 [debug]: /register.html
+2022-07-29 15:04:44.199938 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:04:44.199956 [debug]: filesize:734, 2  to 818
+2022-07-29 15:04:44.200094 [info] : Client[12] quit!
+2022-07-29 15:04:44.200163 [info] : Client[12](192.168.33.1:37874) quit, UserCount:0
+2022-07-29 15:04:45.430312 [info] : Client[12](192.168.33.1:40178) in, userCount:1
+2022-07-29 15:04:45.430369 [info] : Client[12] in!
+2022-07-29 15:04:45.431840 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:04:45.431869 [debug]: /login.html
+2022-07-29 15:04:45.431913 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:04:45.431958 [debug]: filesize:732, 2  to 816
+2022-07-29 15:04:45.432089 [info] : Client[12] quit!
+2022-07-29 15:04:45.432162 [info] : Client[12](192.168.33.1:40178) quit, UserCount:0
+2022-07-29 15:04:52.187893 [info] : ========== Server init ==========
+2022-07-29 15:04:52.187899 [info] : Port:9999, OpenLinger: false
+2022-07-29 15:04:52.187902 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 15:04:52.187904 [info] : LogSys Open: 1
+2022-07-29 15:04:52.187906 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 15:04:52.187908 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 15:04:52.191889 [info] : Server port:9999
+2022-07-29 15:04:52.191924 [info] : ========== Server start ==========
+2022-07-29 15:04:55.055263 [info] : Client[12](192.168.33.1:42226) in, userCount:1
+2022-07-29 15:04:55.055335 [info] : Client[12] in!
+2022-07-29 15:04:55.056696 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 15:04:55.056722 [debug]: /index.html
+2022-07-29 15:04:55.056774 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 15:04:55.056796 [debug]: filesize:829, 2  to 913
+2022-07-29 15:04:55.056924 [info] : Client[12] quit!
+2022-07-29 15:04:55.056999 [info] : Client[12](192.168.33.1:42226) quit, UserCount:0
+2022-07-29 15:04:56.303186 [info] : Client[12](192.168.33.1:43506) in, userCount:1
+2022-07-29 15:04:56.303265 [info] : Client[12] in!
+2022-07-29 15:04:56.304895 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:04:56.304928 [debug]: /register.html
+2022-07-29 15:04:56.304985 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:04:56.305012 [debug]: filesize:734, 2  to 818
+2022-07-29 15:04:56.305186 [info] : Client[12] quit!
+2022-07-29 15:04:56.305272 [info] : Client[12](192.168.33.1:43506) quit, UserCount:0
+2022-07-29 15:04:57.760416 [info] : Client[12](192.168.33.1:45298) in, userCount:1
+2022-07-29 15:04:57.760512 [info] : Client[12] in!
+2022-07-29 15:04:57.762052 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:04:57.762081 [debug]: /login.html
+2022-07-29 15:04:57.762114 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:04:57.762128 [debug]: filesize:732, 2  to 816
+2022-07-29 15:04:57.762254 [info] : Client[12] quit!
+2022-07-29 15:04:57.762332 [info] : Client[12](192.168.33.1:45298) quit, UserCount:0
+2022-07-29 15:05:07.771656 [info] : Client[12] quit!
+2022-07-29 15:05:25.942956 [info] : ========== Server init ==========
+2022-07-29 15:05:25.942967 [info] : Port:9999, OpenLinger: false
+2022-07-29 15:05:25.942970 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-07-29 15:05:25.942972 [info] : LogSys Open: 1
+2022-07-29 15:05:25.942974 [info] : srcDir: /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources
+2022-07-29 15:05:25.942976 [info] : SqlConnPool num: 6, ThreadPool num: 8
+2022-07-29 15:05:25.946646 [info] : Server port:9999
+2022-07-29 15:05:25.946694 [info] : ========== Server start ==========
+2022-07-29 15:05:28.961866 [info] : Client[12](192.168.33.1:51698) in, userCount:1
+2022-07-29 15:05:28.961944 [info] : Client[12] in!
+2022-07-29 15:05:28.963423 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:05:28.963475 [debug]: /register.html
+2022-07-29 15:05:28.963502 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:05:28.963516 [debug]: filesize:738, 2  to 822
+2022-07-29 15:05:28.963594 [info] : Client[12] quit!
+2022-07-29 15:05:28.963677 [info] : Client[12](192.168.33.1:51698) quit, UserCount:0
+2022-07-29 15:05:31.082761 [info] : Client[12](192.168.33.1:54258) in, userCount:1
+2022-07-29 15:05:31.082859 [info] : Client[12] in!
+2022-07-29 15:05:31.084699 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 15:05:31.084730 [debug]: /index.html
+2022-07-29 15:05:31.084765 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 15:05:31.084784 [debug]: filesize:829, 2  to 913
+2022-07-29 15:05:31.084926 [info] : Client[12] quit!
+2022-07-29 15:05:31.085022 [info] : Client[12](192.168.33.1:54258) quit, UserCount:0
+2022-07-29 15:05:31.342830 [info] : Client[12](192.168.33.1:54514) in, userCount:1
+2022-07-29 15:05:31.342929 [info] : Client[12] in!
+2022-07-29 15:05:31.344327 [debug]: [GET], [/favicon.ico], [1.1]
+2022-07-29 15:05:31.344391 [debug]: /favicon.ico
+2022-07-29 15:05:31.344472 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/favicon.ico
+2022-07-29 15:05:31.344511 [debug]: filesize:68318, 2  to 68405
+2022-07-29 15:05:31.344893 [info] : Client[12] quit!
+2022-07-29 15:05:31.344985 [info] : Client[12](192.168.33.1:54514) quit, UserCount:0
+2022-07-29 15:05:31.857815 [info] : Client[12](192.168.33.1:56050) in, userCount:1
+2022-07-29 15:05:31.857901 [info] : Client[12] in!
+2022-07-29 15:05:31.859442 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:05:31.859501 [debug]: /login.html
+2022-07-29 15:05:31.859559 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:05:31.859583 [debug]: filesize:736, 2  to 820
+2022-07-29 15:05:31.859717 [info] : Client[12] quit!
+2022-07-29 15:05:31.859830 [info] : Client[12](192.168.33.1:56050) quit, UserCount:0
+2022-07-29 15:05:33.707205 [info] : Client[12](192.168.33.1:58610) in, userCount:1
+2022-07-29 15:05:33.707270 [info] : Client[12] in!
+2022-07-29 15:05:33.708645 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:05:33.708680 [debug]: /register.html
+2022-07-29 15:05:33.708733 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:05:33.708767 [debug]: filesize:738, 2  to 822
+2022-07-29 15:05:33.708919 [info] : Client[12] quit!
+2022-07-29 15:05:33.709000 [info] : Client[12](192.168.33.1:58610) quit, UserCount:0
+2022-07-29 15:05:34.774002 [info] : Client[12](192.168.33.1:61170) in, userCount:1
+2022-07-29 15:05:34.774068 [info] : Client[12] in!
+2022-07-29 15:05:34.787696 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:05:34.787733 [debug]: /register.html
+2022-07-29 15:05:34.787802 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:05:34.787850 [debug]: filesize:738, 2  to 822
+2022-07-29 15:05:34.787967 [info] : Client[12] quit!
+2022-07-29 15:05:34.788037 [info] : Client[12](192.168.33.1:61170) quit, UserCount:0
+2022-07-29 15:05:35.819387 [info] : Client[12](192.168.33.1:63218) in, userCount:1
+2022-07-29 15:05:35.819565 [info] : Client[12] in!
+2022-07-29 15:05:35.821206 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:05:35.821233 [debug]: /login.html
+2022-07-29 15:05:35.821264 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:05:35.821285 [debug]: filesize:736, 2  to 820
+2022-07-29 15:05:35.821401 [info] : Client[12] quit!
+2022-07-29 15:05:35.821463 [info] : Client[12](192.168.33.1:63218) quit, UserCount:0
+2022-07-29 15:05:36.980147 [info] : Client[12](192.168.33.1:243) in, userCount:1
+2022-07-29 15:05:36.980217 [info] : Client[12] in!
+2022-07-29 15:05:36.981792 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:05:36.981853 [debug]: /register.html
+2022-07-29 15:05:36.981942 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:05:36.981991 [debug]: filesize:738, 2  to 822
+2022-07-29 15:05:36.982219 [info] : Client[12] quit!
+2022-07-29 15:05:36.982347 [info] : Client[12](192.168.33.1:243) quit, UserCount:0
+2022-07-29 15:05:37.875018 [info] : Client[12](192.168.33.1:2547) in, userCount:1
+2022-07-29 15:05:37.875083 [info] : Client[12] in!
+2022-07-29 15:05:37.876654 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:05:37.876688 [debug]: /login.html
+2022-07-29 15:05:37.876713 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:05:37.876785 [debug]: filesize:736, 2  to 820
+2022-07-29 15:05:37.876963 [info] : Client[12] quit!
+2022-07-29 15:05:37.877076 [info] : Client[12](192.168.33.1:2547) quit, UserCount:0
+2022-07-29 15:05:47.887183 [info] : Client[12] quit!
+2022-07-29 15:06:05.942176 [info] : Client[12](192.168.33.1:7667) in, userCount:1
+2022-07-29 15:06:05.942218 [info] : Client[12] in!
+2022-07-29 15:06:05.943654 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:06:05.943682 [debug]: /register.html
+2022-07-29 15:06:05.943715 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:06:05.943745 [debug]: filesize:738, 2  to 822
+2022-07-29 15:06:05.943863 [info] : Client[12] quit!
+2022-07-29 15:06:05.943953 [info] : Client[12](192.168.33.1:7667) quit, UserCount:0
+2022-07-29 15:06:07.379047 [info] : Client[12](192.168.33.1:9715) in, userCount:1
+2022-07-29 15:06:07.379160 [info] : Client[12] in!
+2022-07-29 15:06:07.380654 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:06:07.380710 [debug]: /login.html
+2022-07-29 15:06:07.380804 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:06:07.380847 [debug]: filesize:736, 2  to 820
+2022-07-29 15:06:07.381039 [info] : Client[12] quit!
+2022-07-29 15:06:07.381121 [info] : Client[12](192.168.33.1:9715) quit, UserCount:0
+2022-07-29 15:06:17.381252 [info] : Client[12] quit!
+2022-07-29 15:06:22.619350 [info] : Client[12](192.168.33.1:13299) in, userCount:1
+2022-07-29 15:06:22.619413 [info] : Client[12] in!
+2022-07-29 15:06:22.620692 [debug]: [GET], [/index.html], [1.1]
+2022-07-29 15:06:22.620717 [debug]: /index.html
+2022-07-29 15:06:22.620745 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/index.html
+2022-07-29 15:06:22.620767 [debug]: filesize:829, 2  to 913
+2022-07-29 15:06:22.620884 [info] : Client[12] quit!
+2022-07-29 15:06:22.620965 [info] : Client[12](192.168.33.1:13299) quit, UserCount:0
+2022-07-29 15:06:24.106621 [info] : Client[12](192.168.33.1:14579) in, userCount:1
+2022-07-29 15:06:24.106763 [info] : Client[12] in!
+2022-07-29 15:06:24.108278 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:06:24.108306 [debug]: /register.html
+2022-07-29 15:06:24.108357 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:06:24.108385 [debug]: filesize:738, 2  to 822
+2022-07-29 15:06:24.108535 [info] : Client[12] quit!
+2022-07-29 15:06:24.108629 [info] : Client[12](192.168.33.1:14579) quit, UserCount:0
+2022-07-29 15:06:25.651806 [info] : Client[12](192.168.33.1:16627) in, userCount:1
+2022-07-29 15:06:25.651998 [info] : Client[12] in!
+2022-07-29 15:06:25.653343 [debug]: [GET], [/login.html], [1.1]
+2022-07-29 15:06:25.653368 [debug]: /login.html
+2022-07-29 15:06:25.653391 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/login.html
+2022-07-29 15:06:25.653428 [debug]: filesize:736, 2  to 820
+2022-07-29 15:06:25.653552 [info] : Client[12] quit!
+2022-07-29 15:06:25.653645 [info] : Client[12](192.168.33.1:16627) quit, UserCount:0
+2022-07-29 15:06:28.320444 [info] : Client[12](192.168.33.1:17651) in, userCount:1
+2022-07-29 15:06:28.320520 [info] : Client[12] in!
+2022-07-29 15:06:28.322892 [debug]: Tag:1
+2022-07-29 15:06:28.322934 [info] : Verify name:name pwd:password
+2022-07-29 15:06:28.322942 [debug]: SELECT username, passwd FROM user WHERE username='name' LIMIT 1
+2022-07-29 15:06:28.337200 [debug]: MYSQL ROW: name password
+2022-07-29 15:06:28.337250 [debug]: [POST], [/welcome.html], [1.1]
+2022-07-29 15:06:28.337256 [debug]: /welcome.html
+2022-07-29 15:06:28.337306 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/welcome.html
+2022-07-29 15:06:28.337334 [debug]: filesize:715, 2  to 799
+2022-07-29 15:06:28.337519 [info] : Client[12] quit!
+2022-07-29 15:06:28.337610 [info] : Client[12](192.168.33.1:17651) quit, UserCount:0
+2022-07-29 15:06:31.554551 [info] : Client[12](192.168.33.1:21491) in, userCount:1
+2022-07-29 15:06:31.554632 [info] : Client[12] in!
+2022-07-29 15:06:31.556077 [debug]: [GET], [/register.html], [1.1]
+2022-07-29 15:06:31.556106 [debug]: /register.html
+2022-07-29 15:06:31.556146 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/register.html
+2022-07-29 15:06:31.556196 [debug]: filesize:738, 2  to 822
+2022-07-29 15:06:31.556339 [info] : Client[12] quit!
+2022-07-29 15:06:31.556400 [info] : Client[12](192.168.33.1:21491) quit, UserCount:0
+2022-07-29 15:06:35.378050 [info] : Client[12](192.168.33.1:24051) in, userCount:1
+2022-07-29 15:06:35.378315 [info] : Client[12] in!
+2022-07-29 15:06:35.380489 [debug]: Tag:0
+2022-07-29 15:06:35.380516 [info] : Verify name:qianxunslimg pwd:123456
+2022-07-29 15:06:35.380522 [debug]: SELECT username, passwd FROM user WHERE username='qianxunslimg' LIMIT 1
+2022-07-29 15:06:35.394220 [debug]: MYSQL ROW: qianxunslimg 123456
+2022-07-29 15:06:35.394252 [debug]: user used!
+2022-07-29 15:06:35.394258 [debug]: [POST], [/registerError.html], [1.1]
+2022-07-29 15:06:35.394261 [debug]: /registerError.html
+2022-07-29 15:06:35.394285 [debug]: file path /home/qianxunslimg/桌面/myserver/cmake-build-debug/../resources/html/registerError.html
+2022-07-29 15:06:35.394305 [debug]: filesize:817, 2  to 901
+2022-07-29 15:06:35.394467 [info] : Client[12] quit!
+2022-07-29 15:06:35.394550 [info] : Client[12](192.168.33.1:24051) quit, UserCount:0
+2022-07-29 15:06:45.404962 [info] : Client[12] quit!

@@ -1,0 +1,3 @@
+/home/qianxunslimg/桌面/myserver/cmake-build-debug/CMakeFiles/myserver.dir
+/home/qianxunslimg/桌面/myserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qianxunslimg/桌面/myserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
